@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Bookmarks',
+  title: "Elias's Bookmarks",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -35,15 +35,15 @@ module.exports = {
     nav: [
       {
         text: 'Coding',
-        link: '/coding/md/',
+        link: 'https://ej-bookmarks.netlify.app/coding/md/',
       },
       {
         text: 'Knowledge',
-        link: '/knowledge/md/'
+        link: 'https://ej-bookmarks.netlify.app/knowledge/md/'
       },
       {
         text: 'Music',
-        link: '/music/md/discovery'
+        link: 'https://ej-bookmarks.netlify.app/music/md/discovery'
       },
     ],
     sidebar: {

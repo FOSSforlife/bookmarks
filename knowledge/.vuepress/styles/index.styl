@@ -1,0 +1,22 @@
+/**
+ * Custom Styles here.
+ *
+ * ref：https://v1.vuepress.vuejs.org/config/#index-styl
+ */
+
+.home .hero img
+  max-width 450px!important
+
+.nav-item
+  &:first-of-type
+    a
+      &:hover, &.router-link-active
+        border-bottom 2px solid lighten(#3edf9c, 8%)!important
+  &:nth-of-type(2)
+    a
+      &:hover, &.router-link-active
+        border-bottom 2px solid lighten(#de1f1c, 8%)!important
+  &:nth-of-type(3)
+    a
+      &:hover, &.router-link-active
+        border-bottom 2px solid lighten(#3e9fdc, 8%)!important

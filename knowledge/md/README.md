@@ -1,0 +1,316 @@
+---
+sidebar: auto
+---
+
+# Knowledge
+
+## General Resources
+
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/): My go-to site for philosophical research.
+  - Also, [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
+- [RationalWiki](https://rationalwiki.org/): Great for info on critical thinking, research on controversial topics, and debunking false information. Similar to Wikipedia but more argument-focused.
+- [Vaush's Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit): Contains sections on: Institutional racism, LGBTQ issues, immigration, and Holocaust denial. Continuously being expanded whenever he has a large debate.
+- [Scholarly articles used in Destiny debates (megathread)](https://www.reddit.com/r/Destiny/comments/aahwbl/scholarly_articlesstudies_megathread/): Gender, capitalism, domestic violence, immigration, cultural assimilation, psychedelic drugs, Bill C-16, other
+- [Scholarly articles used in Destiny debates (megathread) Part 2](https://www.reddit.com/r/Destiny/comments/am0gjm/scholarly_articlesstudies_megathread_2/): Gender, economics, immigration, race, crime stats, climate change, and more
+- [Snopes.com](https://www.snopes.com/), [FactCheck.org](https://www.factcheck.org/), [PolitiFact](https://www.politifact.com/) - fact-checking sites
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [List of international rankings](https://en.wikipedia.org/wiki/List_of_international_rankings)
+- Reddit: [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [/r/changemyview](https://www.reddit.com/r/changemyview/), [/r/outoftheloop](https://www.reddit.com/r/outoftheloop/)
+
+## 2020 Election
+- [Ballotpedia - 2020 Election](https://ballotpedia.org/Elections) - Presidential, Congressional, and local election candidate info.
+  - [Sample ballot by zip code](https://ballotpedia.org/Sample_Ballot_Lookup)
+  - [VoteSmart.org](https://justfacts.votesmart.org/) - similar site
+- [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
+- [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
+- [Rebecca Watson - Is it Your Moral Imperative to Vote for Joe Biden?](https://www.youtube.com/watch?v=Fj2u4OWLzEY) (YouTube)
+- [List of reasons to vote against Trump](https://www.reddit.com/r/politics/comments/fgowze/megathread_joe_biden_wins_ms_mo_mi_democratic/fk5x3bv/) (Reddit: /u/CaptainNoBoat)
+- [List of progressive policies that Biden supports](https://www.reddit.com/r/neoliberal/comments/folv0u/discussion_thread/flhws76/) (Reddit: /u/ILikeTalkingToMyself)
+  - This was posted in March 2020, and Biden's campaign has become more progressive since then.
+  - [David Pakman: Biden's Climate Change Proposal Is Solid](https://www.youtube.com/watch?v=DG5ZAbBGWms) (YouTube)
+  - [David Pakman: Joe Biden's Tax Plan Could Be Most Progressive in History](https://www.youtube.com/watch?v=BBYlKpNcgbg) (YouTube)
+- [Veracity of statements by Donald Trump](https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump) (Wikipedia)
+- [Joe Biden Environmental Scorecard](https://scorecard.lcv.org/moc/joe-biden) (link may be broken)
+- [Greenpeace 2020 Climate Scorecards](https://www.greenpeace.org/usa/climate2020/)
+- [Commonly pasted list of Trump's positive accomplishments](https://www.reddit.com/r/politicsdebate/comments/f1jl2r/our_potus_is_on_fire/) (Reddit; be sure to read the comment below)
+  - Response: ["It should be noted that the following points that you made were initiatives 'signed' by Trump, that had little to do with him, his values, or virtually any effort on his part."](https://www.reddit.com/r/politicsdebate/comments/f1jl2r/our_potus_is_on_fire/fhe8ne0/)
+  - [A similar list relating to Obama's presidency](http://whatthefuckhasobamadonesofar.com/) (view in [JSON](https://pastebin.com/NV1Lwk6Z))
+- [/r/EnoughTrumpSpam final response megathread from 2016](https://www.reddit.com/r/EnoughTrumpSpam/comments/4uabwt/final_response_megathread/) (Reddit)
+
+## Alt-Right
+- [Destiny and ContraPoints on how GamerGate led to Trump](https://youtu.be/mzfOYAavFD0?t=25m11s) (YouTube; skip to 25:11)
+- [Three Arrows - How to Fall Down the Anti-SJW Rabbit Hole](https://youtu.be/69obN625Fjs) (YouTube)
+- [The alt-right is drunk on bad readings of Nietzsche. The Nazis were too.](https://www.vox.com/2017/8/17/16140846/alt-right-nietzsche-richard-spencer-nazism) (Vox)
+- [ScotchOikos - The Libertarian to Alt-Right Pipeline](https://www.youtube.com/watch?v=LJKklcxperw) (YouTube)
+- [Faraday Speaks - My Descent Into The Alt-Right Pipeline](https://youtu.be/sfLa64_zLrU) (YouTube)
+
+### Immigration
+- [Destiny vs Nick Fuentes debate research doc](https://docs.google.com/document/d/1Xo_cVn-tMwr2ocnPmiUhbuSnILKXdLCiDHEjlUKI2Z8)
+- [Debunking Denialism: How Anti-Immigration Activists Misuse Rape Statistics](https://debunkingdenialism.com/2015/12/12/how-anti-immigration-activists-misuse-rape-statistics/?fbclid=IwAR3EN9MVLwyGNAZyvMGxpuNMEfaTYvgOZASu6p-EE3_5G3Lp1RA4BVX-aHA) - really good article!
+- [/r/AskFeminists: Immigration and Crime](https://www.reddit.com/r/AskFeminists/comments/512vvt/immigration_and_crime/)
+- [/r/AskFeminists basic responses to racist claim that Sweden is the "rape capital of Europe"](https://www.reddit.com/r/AskFeminists/comments/cjw416/how_can_sweden_be_held_as_a_profeminist_country/)
+- [Rape in Sweden](https://en.wikipedia.org/wiki/Rape_in_Sweden) (Wikipedia)
+
+## COVID-19
+- [FactCheck.org coronavirus coverage](https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/)
+- Dataset lists: [1](https://github.com/soroushchehresa/awesome-coronavirus) [2](https://github.com/bigheiniu/awesome-coronavirus19-dataset) [3](https://github.com/fnielsen/awesome-covid-19-resources) [4](https://github.com/datasets/ovid-19)
+- [NYTimes datasets (CSV files)](https://github.com/nytimes/covid-19-data)
+- [/r/COVID19_data](https://www.reddit.com/r/COVID19_data/)
+- [Full text: Over 1,000 health professionals sign a letter saying, Don't shut down protests using coronavirus concerns as an excuse](https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html) (CNN)
+- [Destiny vs NuanceBro debate document on why "Chinese virus" is racist](https://pastebin.com/WBSKB1yG)
+  - [First debate](https://www.youtube.com/watch?v=wahkW2T_ulY) (YouTube)
+  - [Second debate](https://www.youtube.com/watch?v=OzznoNDGlFM) (YouTube)
+- Timelines of Trump's actions: [Vox](https://www.vox.com/2020/6/8/21242003/trump-failed-coronavirus-response), [NPR](https://www.npr.org/sections/goatsandsoda/2020/04/15/835011346/a-timeline-of-coronavirus-comments-from-president-trump-and-who), [Trump's website](https://www.donaldjtrump.com/media/timeline-the-trump-administrations-decisive-actions-to-combat-the-coronavirus/) (just to be balanced, I guess)
+- [Jacobson v. Massachusetts, (1905 Supreme Court case defending mandatory vaccination in the name of public health and safety)](https://supreme.justia.com/cases/federal/us/197/11/)
+  - If this was ruled Constitutional, certainly mask enforcements are.
+
+## Economics
+
+- [/r/economics wiki](https://www.reddit.com/r/economics/wiki/index) - FAQs on trade, immigration, inequality, minimum wage, automation, etc. as well as reading lists.
+- [/r/askeconomics](https://reddit.com/r/askeconomics)
+- [Crash Course Economics](https://www.youtube.com/playlist?list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ) (YouTube)
+- [Economics Explained](https://www.youtube.com/user/JitaLounge) (YouTube)
+
+### Analyzing the Field of Study
+- [Heterodox economics (esp. section "Rejection of neoclassical economics")](https://en.wikipedia.org/wiki/Heterodox_economics) (Wikipedia)
+- [Does Economics Breed Republicans?](https://www.theatlantic.com/business/archive/2010/06/does-economics-breed-republicans/57846/) (The Atlantic)
+- ["Liberalism at Large"](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large) (podcast episode critiquing The Economist)
+
+
+### Universal Basic Income
+- [/r/economics wiki page (a neutral perspective)](https://www.reddit.com/r/Economics/wiki/faq_basicincome)
+- [/r/BasicIncome wiki (a positive perspective)](https://www.reddit.com/r/BasicIncome/wiki/index)
+- [@LittleKeegs0: Argument for social democratic welfare state over UBI](https://twitter.com/LittleKeegs0/status/1270941895368290304) (Twitter)
+- [Vaush: Andrew Yang is a Trash Candidate, Here's Why](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube, main arguments start at 20:45)
+- [Minimum Wages vs. Universal Basic Income](https://www.scottsantens.com/minimum-wages-vs-universal-basic-income)
+
+### Healthcare
+- [/r/askeconomics: Why hasn't competition between health insurance companies brought down the price of premiums/deductibles?](https://www.reddit.com/r/AskEconomics/comments/f8wk5d/why_hasnt_competition_between_health_insurance/) (Reddit)
+- [/r/changemyview: Pete Buttigieg is correct that Bernie Sanders' medicare for all plan has a 50 trillion dollar price tag that simply cannot be explained away.](https://www.reddit.com/r/changemyview/comments/f6u6o0/cmv_pete_buttigieg_is_correct_that_bernie_sanders/)
+  - [Article in top comment: Medicare for All Would Save $450 Billion Annually While Preventing 68,000 Deaths, New Study Shows](https://www.newsweek.com/medicare-all-would-save-450-billion-annually-while-preventing-68000-deaths-new-study-shows-1487862) (Newsweek)
+- [/r/badeconomics: A Critique of The Lancet's Medicare For All Study](https://www.reddit.com/r/badeconomics/comments/f4uqku/a_critique_of_the_lancets_medicare_for_all_study/) (Reddit)
+- [Last Week Tonight: Medicare For All](https://youtu.be/7Z2XRg3dy9k) (YouTube)
+
+### Wealth Disparity
+- [Addressing the claim that "no one is poor simply because somebody else is wealthy"](https://www.reddit.com/r/Destiny/comments/aatxuz/there_is_not_a_single_person_apparently/ecuzbl8/) (Reddit)
+- [/r/economics on homelessness in San Francisco](https://www.reddit.com/r/Economics/comments/dt90c6/homelessness_surges_in_san_francisco_while_techs/)
+
+### Land Value Tax
+- [Various resources and arguments (responses to @SocksxMC's tweet)](https://twitter.com/SocksxMC/status/1276953664566034433) (Twitter)
+
+### Value Added Tax
+- [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
+
+### Bankruptcy
+[/u/Arahad2's response to "Why don't we just let major airlines collapse?"](https://www.reddit.com/r/AskEconomics/comments/fk7ncs/why_dont_we_just_let_major_airlines_collapse/fkr7zpu?utm_source=share&utm_medium=web2x) (Reddit)
+
+### Philanthropy
+
+#### Pro
+- [SSIR - 12 Common Criticisms of Philanthropy—and Some Answers](https://ssir.org/articles/entry/12_common_criticisms_of_philanthropyand_some_answers)
+- [Against Against Billionaire Philanthropy](https://slatestarcodex.com/2019/07/29/against-against-billionaire-philanthropy/) (response to one of the articles below, good read)
+    - [Reddit discussion (including respnoses from Reich and others)](https://www.reddit.com/r/slatestarcodex/comments/cjkqnd/against_against_billionaire_philanthropy/)
+
+#### Against
+- [Vox - The case against billionaire philanthropy](https://www.reddit.com/r/slatestarcodex/comments/cjkqnd/against_against_billionaire_philanthropy/) (interview with Rob Reich)
+  - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
+- [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
+
+
+### Capitalism
+- [@AlecStapp: Differences between neoliberalism and social democracy](https://threadreaderapp.com/thread/1261023890823938048.html) (Twitter)
+- [23 charts and maps that show the world is getting much, much better](https://www.vox.com/2014/11/24/7272929/global-poverty-health-crime-literacy-good-news?fbclid=IwAR1efpeMrMbp87sfLTP8X18Qh51zlO1uZQ4qi6CS0nXRWYZ5cmMt9DavR9k) (Vox)
+- [Matthew Ader - No, Jeff Bezos Can't End World Hunger](https://exponentsmag.org/2020/07/18/no-jeff-bezos-cant-end-world-hunger/)
+
+#### Calculation Problem
+- [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) (Wikipedia)
+- [/r/CapitalismVSocialism discussion](https://www.reddit.com/r/CapitalismVSocialism/comments/7lkh25/opinion_sociopathy_and_selfishness_are_important/drn5awd/)
+
+### Big Tech
+- [Big Tech Abuse Tracker](https://www.economicliberties.us/big-tech-abuse-tracker/#) (American Economic Liberties Project)
+- [@matthewstoller: Thread about anti-trust hearings taking place in 2020](https://twitter.com/matthewstoller/status/1288462466029178880) (Twitter)
+- [Robert Reich: Here’s Why We Need to Break Up Big Tech](https://www.nakedcapitalism.com/2019/06/robert-reich-heres-why-we-need-to-break-up-big-tech.html)
+- [The Economist: Dismembering Big Tech](https://www.reddit.com/r/neoliberal/comments/do7m2u/dismembering_big_tech/) (Article pasted in Reddit comment)
+
+### Marx
+- [/r/AskSocialScience: Are any of Karl Marx's insights accepted by modern mainstream economists?](https://www.reddit.com/r/AskSocialScience/comments/26ry32/are_any_of_karl_marxs_insights_accepted_by_modern/) (Reddit)
+- [Summary of some Marxist principles](https://www.reddit.com/r/Marxism/comments/346ssu/please_explain_marxism_to_me_as_a_total_novice/cqsbqv5/) (Reddit)
+- [Marxian economics](https://en.wikipedia.org/wiki/Marxian_economics) (Wikipedia)
+
+
+### Anti-Capitalism
+- [@ArashKolahi: Market capitalism is inherently undemocratic and therefore environmentally destructive (proven using economic models)](https://twitter.com/ArashKolahi/status/1232782537174347776)
+- [The Neoliberal Optmism: how "those in power cook the books and spin data to make their case for maintaining the status quo"](https://soundcloud.com/citationsneeded/episode-58-the-neoliberal-optimism-industry) (podcast)
+- [Al Jazeera - Exposing the great 'poverty reduction' lie](https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html?fbclid=IwAR0LtigHHO8G-kgiD1kSjY749wTX5kIZQZOqUlXcd15BbUWkMurDQg3nRkY)
+- [Reddit comment about how current investments are economically ineffecient](https://www.reddit.com/r/Libertarian/comments/8xrlpi/elon_musk_is_the_best/e25eckw/)
+- ["Anti-Communist Myths Debunked" Google doc shared by tankies](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs) (judging by first glance, seems filled with misinformation and historical revisionism. Could be useful for understanding the tankie mindset if nothing else)
+
+### Has Socialism Been Tried?
+- [RationalWiki - Is communism at all workable?](https://rationalwiki.org/wiki/Communism#Is_communism_at_all_workable.3F)
+  - [The few examples when communism worked out relatively fine](https://rationalwiki.org/wiki/Communism#The_few_examples_when_communism_worked_out_relatively_fine)
+- [David Pakman on the claim that "socialism has never worked"](https://www.youtube.com/watch?v=k79wCaFgU40) (YouTube)
+
+### Bernie Sanders
+- [Reddit comment regarding some of his policies/positions](https://www.reddit.com/r/changemyview/comments/34gvus/cmvbernie_is_more_than_the_best_candidate_for/cqumdja/)
+
+## Energy
+- [/r/Destiny: Why are leftists against nuclear energy when it comes to fighting climate change?](https://www.reddit.com/r/Destiny/comments/g7ujkz/why_are_leftists_against_nuclear_energy_when_it/) (Reddit)
+- [Against Unreason - Nuclear power: Safe, clean, abundant energy to fight climate change](https://againstunreason.wordpress.com/2020/05/04/nuclear-power-safe-clean-abundant-energy-to-fight-climate-change/)
+
+## Ethics
+
+- [Utilitarianism.com](https://www.utilitarianism.com/index.htm) - huge list of blog posts and resources
+  - [Negative Utilitarianism FAQ](https://www.utilitarianism.com/nu/nufaq.html)
+- [Well-Being](https://plato.stanford.edu/entries/well-being/) (Stanford Encyclopedia)
+- [/r/philosophy introduction to metaethics](https://www.reddit.com/r/philosophy/comments/1fvspw/an_introductionoverview_of_metaethics/) (Reddit)
+- [Ethical Hedonism](https://plato.stanford.edu/entries/hedonism/#EthHed) (Stanford Encyclopedia)
+- [Consequentialism](https://plato.stanford.edu/entries/consequentialism/) (Stanford Encyclopedia)
+- [Julia Galef - The Repugnant Conclusion](https://www.youtube.com/watch?v=vqBl50TREHU) (YouTube)
+  - [Mere addition paradox](https://en.wikipedia.org/wiki/Mere_addition_paradox) (Wikipedia)
+- [Utility monster](https://en.wikipedia.org/wiki/Utility_monster) (Wikipedia)
+- [Derek Parfit - On What Matters](https://en.wikipedia.org/wiki/On_What_Matters) (Wikipedia)
+- [David Pearce: Is suffering worthwhile?](https://www.quora.com/Do-you-believe-that-suffering-is-worthwhile/answer/David-Pearce-18?ch=3&share=0e245882&srid=oFiP) (Quora)
+- [Brian Tomasik: Hedonistic vs. Preference Utilitarianism](https://longtermrisk.org/hedonistic-vs-preference-utilitarianism/)
+- [Peter Singer on preference utilitarianism](https://thepanpsycast.com/singer-preference)
+- [Philosophy Tube: Hedonism And Pleasure](https://youtu.be/rZmFDVYolQ4) (YouTube)
+- [Difference between Moral Relativity and Moral Subjectivity](https://reddit.com/r/AskPhilosophyFAQ/comments/adkepx/im_a_moral_relativist_im_told_im_fringe_but_dont/)
+
+## Futurism
+- [This machine can make salty water drinkable — using only the sun’s rays](https://www.washingtonpost.com/news/energy-environment/wp/2015/05/06/this-machine-can-make-salty-water-drinkable-using-only-the-suns-rays/?postshare=3211430939131644)
+
+### Transhumanism
+- [PostHuman: An Introduction to Transhumanism](https://www.youtube.com/watch?v=bTMS9y8OVuY) (YouTube)
+- [The Hedonistic Imperative](https://www.hedweb.com/)
+- [The Abolitionist Project](https://www.abolitionist.com/)
+- [David Pearce - Towards the Abolition of Suffering](https://youtu.be/CdXz4juOTwo) (YouTube)
+
+
+## Geopolitics and History
+
+### Abraham Lincoln
+- [Against Unreason: Lincoln didn’t really care about the slaves until it was convenient? False](https://againstunreason.wordpress.com/2019/08/13/lincoln-didnt-really-care-about-the-slaves-until-it-was-convenient-false/)
+
+### Bolivia
+- [Vaush 1 (response to Destiny, 1 hr)](https://www.youtube.com/watch?v=8TIQTwWsDs4) (YouTube)
+- [Vaush 2 (summary, 32 min)](https://www.youtube.com/watch?v=Ce7MPpAc2rw) (YouTube)
+- [Vaush 3 (response to Pakman, 47 min)](https://www.youtube.com/watch?v=iSd_k8_SkuA) (YouTube)
+
+### China
+- [RationalWiki - Human Rights in China (includes section on Uyghur camps)](https://rationalwiki.org/wiki/China#Human_rights_in_China_.28it_ain.27t_good.29)
+- [Large Google Doc titled "Debunking And Analysing Myths of 'Concentration Camps'"](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU) (probably complete bullshit. Haven't looked through it yet, it's here to remind myself)
+
+### Colonialism
+- [@IAmSuyiDavies debunking the claim that Africa is better off due to colonization](https://threadreaderapp.com/thread/1276928013163098112.html) (Twitter)
+
+### USSR
+- [Stalin apologetics](https://rationalwiki.org/wiki/Stalin_apologetics) (RationalWiki)
+
+## Metaphysics, Philosophy of Mind
+
+### Consciousness/Panpsychism
+- [TED - David Chalmers: How do you explain consciousness?](https://www.youtube.com/watch?v=uhRhtFFhNzQ) (YouTube)
+- [Hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness) (Wikipedia)
+- [David Pearce - Could quantum computing cause sentience in AI?](https://www.quora.com/Could-quantum-computing-cause-sentience-in-A-I/answer/David-Pearce-18) (Quora)
+- [David Pearce's views on consciousness, materialism, and quantum physics](https://www.quora.com/Could-David-Pearce-explain-his-views-on-consciousness-materialism-and-quantum-physics-in-simple-language)
+  - Pearce has written several Quora answers on this topic (and hundreds on other topics), but this is perhaps the best summary of his perspective.
+
+### Self
+- [Derek Parfit on Personal Identity](https://www.youtube.com/watch?v=B64XTV6JNHA) (YouTube)
+- [Crash Course Philosophy - Arguments Against Personal Identity](https://www.youtube.com/watch?v=17WiQ_tNld4) (YouTube)
+- [Personal Identity and Ethics](https://plato.stanford.edu/entries/identity-ethics/) (Stanford Encyclopedia)
+- [Sam Harris: The Self Is An Illusion](https://www.youtube.com/watch?v=fajfkO_X0l0) (YouTube)
+
+### Knowledge
+- [Sean Carroll - Quantum Field Theory and the Limits of Knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/)
+
+## Neuroscience and Psychology
+- [@spiantado: Here's why IQ is bullshit.](https://threadreaderapp.com/thread/1275783954411347968.html) (Twitter)
+- [Peter Joseph on IQ](https://www.facebook.com/peterjosephofficial/posts/1621535341216948) (Facebook)
+- [Sam Harris, Charles Murray, and the allure of race science](https://www.vox.com/policy-and-politics/2018/3/27/15695060/sam-harris-charles-murray-race-iq-forbidden-knowledge-podcast-bell-curve) (Vox)
+  - [Discussion between Ezra Klein and Sam Harris](https://www.vox.com/2018/4/9/17210248/sam-harris-ezra-klein-charles-murray-transcript-podcast) (Vox; text and audio)
+  - [Against Unreason: Charles Murray Is Not A Racist](https://againstunreason.wordpress.com/2019/09/23/do-racial-differences-in-iq-exist-is-charles-murray-a-racist/)
+  - [The Bell Curve](https://en.wikipedia.org/wiki/The_Bell_Curve) (Wikipedia)
+  - [History of the race and intelligence controversy](https://en.wikipedia.org/wiki/History_of_the_race_and_intelligence_controversy) (Wikipedia)
+  - [Racialism](https://rationalwiki.org/wiki/Racialism) (RationalWiki)
+  - [Shaun's 2 1/2-hour video on The Bell Curve](https://www.youtube.com/watch?v=UBc7qBS1Ujo) (YouTube)
+  - [ForeverJameses hour-long video on The Bell Curve](https://www.youtube.com/watch?v=UBc7qBS1Ujo) (YouTube)
+
+## Philosophy (General)
+- [/r/philosophy FAQ](https://www.reddit.com/r/philosophy/wiki/faq)
+- [/r/philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
+- [Rem - Philosophy Reading List](https://www.reddit.com/r/Destiny/comments/961mhm/good_resources_for_philosophy_from_rem/)
+- [Existentialism vs. Marxism](https://www.reddit.com/r/philosophy/comments/33o8qd/existentialism_versus_marxism_their_differences/)
+
+## Police & Law Enforcement
+
+- General info
+  - [2020 BLM Resource Guide](https://docs.google.com/document/u/1/d/1yxj0kSC2-LzINUlfNMEV_Qi-7ZtWCTLSua3Z-9XFNqA/mobilebasic)
+  - [BLM Resources](https://blacklivesmatters.carrd.co/#educate) (subpage of blacklivesmatters.carrd.co)
+  - [The Militarization Manifesto](https://www.reddit.com/r/Destiny/comments/gzae9p/the_militarization_manifesto/)
+  - [@alex_zee: List of Portland Mercury articles about their police](https://threadreaderapp.com/thread/1271541703749459968.html) (Twitter)
+  - [@TuckWoodstock on feds in Portland: "None of it felt surprising to folks who have been out here since June."](https://threadreaderapp.com/thread/1284251679798341632.html) (Twitter)
+  - [Victoria Alexander - Anti-Racist Resource Guide](https://www.victorialynnalexander.com/antiracistresourceguide)
+  - [Anti-Racism Resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs) (Google Doc)
+
+- Arguments for Reform
+  - [Campaign Zero](https://joincampaignzero.org)
+  - [8 Can't Wait](https://8cantwait.org/)
+  - [@samswey: Research-based solutions to police violence](https://threadreaderapp.com/thread/1180655701271732224.html) (Twitter)
+  - [@DarioRahim: Arguments for reform](https://threadreaderapp.com/thread/1268573431664193538.html) (Twitter)
+  - [Police Union Contract Project](https://www.checkthepolice.org/)
+  - [Police Use of Force Project](http://useofforceproject.org/)
+- Arguments for Abolition
+  - [Critical Resistance](http://criticalresistance.org/) ([Infographic](https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf))
+  - [Abolition Research Doc from @AMReese07](https://docs.google.com/document/d/1odJy1Mj5lsr94xbS_5EHhEYmvls9QsE5o7nLsyzWV4U/edit) (Google Docs)
+
+
+## Political Studies
+
+- [Yale University - Political Philosophy Course](https://www.youtube.com/playlist?list=PLp-cIkvQ88-3DJkwB4iUnoHP7mUG6jFsA)
+- [Yale University - Power and Politics in Today's World](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
+- [Wireless Philosophy: Introduction to Political Philosophy](https://www.youtube.com/playlist?list=PLtKNX4SfKpzVzlrbkay2UgewNCVif3K24)
+
+### US Corruption
+- [@Public_Citizen: A coal lobbyist runs the EPA, A pharma exec runs HHS...](https://twitter.com/Public_Citizen/status/1262055530417270787) (Twitter)
+- [Salon in 2015: The cash donations Hillary simply has no answer for](https://www.salon.com/test2/2015/05/31/the_cash_donations_hillary_simply_has_no_answer_for_partner/)
+
+### US Public Interest vs. Enacted Policy
+- [@ArashKolahi: The Democratic Party establishment is far to the right of the US population.](https://twitter.com/ArashKolahi/status/1285647367585374208) (Twitter)
+
+### Voting
+
+#### Alternatives To Current Structure
+- [Liquid Democracy](https://en.wikipedia.org/wiki/Liquid_democracy) (Wikipedia)
+- [Ranked Voting](https://en.wikipedia.org/wiki/Ranked_voting) (Wikipedia)
+- [Against Unreason: Is The Electoral College A Good Thing?](https://againstunreason.wordpress.com/2019/07/22/the-political-right-and-the-electoral-college/)
+
+#### Digital Voting
+- [Exploring the software quality of electronic voting machines](https://github.com/Gorcenski/voting-machines) (GitHub)
+- [DemocraciaOS/DemocracyOS](https://democraciaos.org/en/)
+- [Loomio - decision making/discussion software](https://www.loomio.org/)
+- [e-Estonia - a digital society](https://e-estonia.com/)
+
+### Democracy
+- [Against Unreason: Better Than Democracy](https://againstunreason.wordpress.com/2019/12/21/better-than-democracy/)
+
+## Rationality
+
+- [RationalWiki's article on Rationality](https://rationalwiki.org/wiki/Rationality)
+- [Yes, We Have Noticed The Skulls (a response to critiques of rationalism)](https://slatestarcodex.com/2017/04/07/yes-we-have-noticed-the-skulls/)
+- [The Game of Trust (really neat browser game about game theory)](https://ncase.me/trust/)
+- [/r/Destiny post: Intuition and rationality in decision making](https://www.reddit.com/r/Destiny/comments/8jevcj/intuition_and_rationality_in_decision_making/)
+- [Julia Galef: A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8) (YouTube)
+- [Wireless Philosophy: Introduction to Critical Thinking](https://www.youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk)
+
+## State of the World
+- [2030 UN Sustainable Development Goals](https://sdgs.un.org/goals)
+  - [Annual report](https://www.un.org/sustainabledevelopment/progress-report/)
+- [World Happiness Report](https://worldhappiness.report/)
+
+## Veganism
+- [/r/vegan FAQ](https://www.reddit.com/r/vegan/wiki/beginnersguide) (start here)
+- [Huge list of ingredients to avoid](http://www.veganwolf.com/animal_ingredients.htm)
+- [Huge list of Portland vegan restaurants](https://foodfightgrocery.com/pdxguide)
+- [Infographic comparing non-dairy milks](https://i.redd.it/y42kv9rodkc21.png)
+- [Unnatural Vegan: Vegan Nutrition Basics](https://youtu.be/ID_2ymmvW5w) (YouTube)
+

@@ -12,7 +12,7 @@
 - [Plugin Boutique](https://www.pluginboutique.com/deals)
 - [AudioDeluxe](https://www.audiodeluxe.com/)
 
-## Tutotials
+## Tutorials
 
 ### YouTube Playlists
 

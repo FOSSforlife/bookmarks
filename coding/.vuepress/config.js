@@ -36,14 +36,17 @@ module.exports = {
       {
         text: 'Coding',
         link: 'https://ej-bookmarks.netlify.app/coding/md/',
+        target: '_self'
       },
       {
         text: 'Knowledge',
-        link: 'https://ej-bookmarks.netlify.app/knowledge/md/'
+        link: 'https://ej-bookmarks.netlify.app/knowledge/md/',
+        target: '_self'
       },
       {
         text: 'Music',
-        link: 'https://ej-bookmarks.netlify.app/music/md/discovery'
+        link: 'https://ej-bookmarks.netlify.app/music/md/discovery',
+        target: '_self'
       },
     ],
   },

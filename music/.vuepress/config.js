@@ -57,6 +57,7 @@ module.exports = {
           children: [
             'discovery',
             'production',
+            'daw-project'
           ]
         }
       ],

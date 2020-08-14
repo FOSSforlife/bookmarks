@@ -24,7 +24,9 @@ Idea: A fully modular DAW that lets you compose, synthesize, and mix professiona
 - [Alda](https://github.com/alda-lang/alda)
 - [quick-midi](https://github.com/Hadron67/quick-midi)
 - [LilyPond](https://github.com/lilypond/lilypond)
-
+- [Nyquist](http://www.cs.cmu.edu/~rbd/doc/nyquist/) (Lisp-based language for both sound synthesis and composition)
+- [Midica](https://github.com/truj/midica)
+- More: [Awesome Music Programming](https://github.com/ciconia/awesome-music#music-programming)
 
 ### Live Coding
 

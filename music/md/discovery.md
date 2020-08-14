@@ -47,11 +47,15 @@
 
 ## Something New
 - [Every Noise At Once (browse every genre tagged by Spotify)](http://everynoise.com/)
-- [List of music subreddits](https://www.reddit.com/r/Music/wiki/musicsubreddits)
+- [Reddit Music Player](https://reddit.musicplayer.io/)
+  - [List of music subreddits](https://www.reddit.com/r/Music/wiki/musicsubreddits)
 - [Spotify Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcClrorXLDqST?si=LHQbHOg3TseN7haksA-wDA)
+- [musicmap.info - Explore genres](https://musicmap.info/#)
+  - [Google Music Timeline](http://research.google.com/bigpicture/music/#)
+- [music-map.com - Discover similar artists](https://www.music-map.com/)
+  - [Musicroamer](https://www.musicroamer.com/player)
 - [Music For Your Moods (artists categorized by emotions)](https://rateyourmusic.com/list/novocaine69/music-for-your-moods-a-non-aesthetic-compendium/) (RYM)
 - [50 Favorite Artists + Mood Thesaurus (similar to above)](https://rateyourmusic.com/list/HenryFool/my_50_favorite_artists___mood_thesaurus/) (RYM)
-- [Google Music Timeline](http://research.google.com/bigpicture/music/#)
 - [Albums I haven't listened to yet (March 2018)](https://pastebin.com/VtMYsD0M)
 - [Deep Cuts "5 albums to get you into ____" Lists](https://rateyourmusic.com/list/expand/deep-cuts-5-albums-to-get-you-into-lists/) (RYM)
 - [The RYM Rough Guide To Every Artist](https://rateyourmusic.com/list/grendel71/the-rym-rough-guide-to-everything-work-in-progress/)
@@ -82,7 +86,8 @@
 ### Hip-Hop
 
 #### 90s
-- [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U?si=t7gwTa93Qt6GOmgcM7YYdg)
+- [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U?si=t7gwTa93Qt6GOmgcM7YYdg) (Spotify)
+- [I Love My '90s Hip-Hop](https://open.spotify.com/playlist/37i9dQZF1DX186v583rmzp?si=AW-xWGWiQfiGqkhK4EmgmQ) (Spotify)
 
 #### Aggressive/Industrial
 - [Industrial Hip-Hop/Trap Metal](https://rateyourmusic.com/list/baanp/industrial-hip-hop_trap-metal/) (RYM)
@@ -91,19 +96,30 @@
 - [Scarlxrd | Hype Type Beat](https://open.spotify.com/playlist/7GJCoknNi91HcQ3tGq4ku6?si=PEpaUZbORnmBUVupQ4w6rA) (Spotify)
 - [Industrial Hip Hop | Sonemic Selects](https://open.spotify.com/playlist/49CXM93TR0mV8frUv3c6Rm?si=3oDlkbcVQZeaeNji-HCl-A) (Spotify)
 
-#### Experimantal
+#### Experimental
 - [Abstract and Experimental Hip Hop | Sonemic Selects](https://open.spotify.com/playlist/1xrfoSvHSXHZNZaiTlbBjV?si=AMgHN6jkR5aBhL-3Y24xBg) (Spotify)
 
 ### Industrial/Noise
-- [Ant-Zen albums](https://open.spotify.com/playlist/31d0C63r1Nkwf63UufgUUq?si=oyGtvZJtRdOkuibR8OksdQ) (Spotify)
+- [Ant-Zen catalogue](https://open.spotify.com/playlist/31d0C63r1Nkwf63UufgUUq?si=oyGtvZJtRdOkuibR8OksdQ) (Spotify)
 - [RateYourMusic - Power noise](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=power+noise&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=power+noise&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=power+noise&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [RateYourMusic - Industrial techno](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [The Sound of Power Noise](https://open.spotify.com/playlist/23j3NLoqFN0Z7z3rsCZH7Q?si=mvVdXEqcSAC5PTjqijimeA) (Spotify)
 - [Adult Swim Noise compilation](https://www.adultswim.com/music/noise/)
 - [RYM llsts that include "Five Star Hotel - Gray Data"](https://rateyourmusic.com/release/album/five-star-hotel/gray-data/lists/)
 - [for the love of god susig, listen to more noise music other than fucking merzbow](https://rateyourmusic.com/list/burnit/for-the-love-of-god-susig-listen-to-more-noise-music-other-than-fucking-merzbow/) (RYM)
+- [Full of Hell's Guide to Noise](https://www.loudersound.com/features/full-of-hell-s-guide-to-noise)
+- [NOISE POWER ELECTRONICS BLACK INDUSTRIAL](https://www.facebook.com/groups/228089920647734/) (Facebook group)
+- [Rhythmic Noise](https://www.facebook.com/groups/108125056345/?ref=br_rs) (Facebook group)
+- [POWERNOISE/ EXPERIMENTAL & POST-INDUSTRIAL selected tracks by Simplexia](https://www.youtube.com/watch?v=ZpH-ZAfJ7Rg) (YouTube)
+- [[almost] 2 hours of Power Electronics, Noise and Experimental Music](https://www.youtube.com/watch?v=BXaDItgNG9k) (YouTube)
+- [Industrial/powernoise](https://www.youtube.com/playlist?list=PLvNvyZXHqrQDQHKWKaOvnvbwO4iaMoywi) (YouTube playlist)
 
 ### Jazz
 - [Avant-Garde Jazz | Sonemic Selects](https://open.spotify.com/playlist/3MNK0hasZWYaL92KVk2Oae?si=ZGRce5LgSJ6id5sBC8ClaQ) (Spotify)
 - [Fusion Fest](https://open.spotify.com/playlist/37i9dQZF1DX0aSJooo0zWR?si=MwUBCBAVQJaiY022TPhs7A) (Spotify)
+- [/mu/ - How To Get Into Jazz](https://www.reddit.com/r/Jazz/comments/4fjfhl/how_do_you_get_into_jazz/)
+- [RateYourMusic - Jazz](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [RateYourMusic - Jazz fusion](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 
 ### Punk
 - [Noise Rock | Sonemic Selects](https://open.spotify.com/playlist/5a8FRXYH1VCoTqDyVhFhas?si=9PsUTUaHTiWD_Ay3dfaXkw) (Spotify)
@@ -117,8 +133,13 @@
 - [Dream Sludge](https://rateyourmusic.com/list/nojokingmoe/dream-sludge/)
 - [Sumerian Records - Instrumental Inspiration (also includes some electronic)](https://open.spotify.com/playlist/4OGVT1hpKxD6P8PdGXpvkx?si=nSToTTlCSvaBqulzc0-lMA) (Spotify)
 - [Death Metal | Sonemic Selects](https://open.spotify.com/playlist/4qy3TuouIJQIB3CtNUjQoL?si=Mg5ClJmwQK6Cl7gVdTsvJA) (Spotify)
+- [RateYourMusic - Avant-garde metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [RateYourMusic - Black metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [RateYourMusic - Brutal death metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
+- [RateYourMusic - Deathgrind](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=deathgrind&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=deathgrind&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=deathgrind&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 - [RateYourMusic - Grindcore](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=grindcore&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=grindcore&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=grindcore&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 - [RateYourMusic - Technical death metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=technical+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=technical+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=technical+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
-- [RateYourMusic - Brutal death metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=brutal+death+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
-- [RateYourMusic - Black metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=black+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 - [death, power, metal, noise, and industrial](https://open.spotify.com/playlist/2wJ7TdXpJ4ZflxiLPF7TaC?si=RcEXTq7ISB2z6Py7CkmBhw) (Spotify)
+- [/r/sludge: Heaviest sludge metal bands](https://www.reddit.com/r/sludge/comments/947e0j/heaviest_sludge_lists/) (Reddit)
+- [/r/listentothis sludge metal thread](https://www.reddit.com/r/listentothis/comments/3k31g2/roundup_genre_appreciation_sludge_metal/?utm_source=reddit&utm_medium=usertext&utm_name=sludge&utm_content=t5_2sznn) (Reddit)
+- [/r/djent: Any good heavier djent bands?](https://www.reddit.com/r/Djent/comments/82lvna/any_good_heavier_djent_bands/) (Reddit)

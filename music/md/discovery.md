@@ -1,6 +1,6 @@
 # Discovery
 
-## New
+## New Releases
 - [The Needle Drop Loved List](https://www.youtube.com/playlist?list=PLP4CSgl7K7oo93I49tQa0TLB8qY3u7xuO)
 - [Pitchfork - Best New Music](https://pitchfork.com/best/)
 - [Angry Metal Guy](https://www.angrymetalguy.com/)
@@ -45,7 +45,7 @@
 - [Metal Hammer album lists 1994-2017](http://www.rocklistmusic.co.uk/metal.htm)
 - [AlbumOfTheYear.org](https://www.albumoftheyear.org/)
 
-## Something New
+## Explore
 - [Every Noise At Once (browse every genre tagged by Spotify)](http://everynoise.com/)
 - [Reddit Music Player](https://reddit.musicplayer.io/)
   - [List of music subreddits](https://www.reddit.com/r/Music/wiki/musicsubreddits)
@@ -76,12 +76,12 @@
   - [Ghostly Swim 2](https://open.spotify.com/album/2OFdD7KGVXmyQcRzZYpqVm?si=gw3PjWlMRIewDFedGUIy1A)
   - [Ghostly Swim 3](https://open.spotify.com/album/5wATCNKKYbRKlG2hKzhUCu?si=FW6V28vXT3ymHIczkM6gYw)
 
-### Goth
-- [80s Goth/Post Punk/New Wave](https://open.spotify.com/playlist/05fFtCFUQNLJa7EZfHrEY1?si=195logrtQfqZx8v0H0Ul7g) (Spotify)
-
 ### Funk/Go-Go
 - [Slow-Roasted Funk](https://open.spotify.com/playlist/0irhoCmeSMSVlAbvxoknnX?si=xO65qTEfRNedmD-Y8Vc4FQ) (Spotify)
 - [gogo + samba/pagode/ - no reggae](https://open.spotify.com/playlist/0XqrduyhauJue7uUFnuyKE?si=DHZjrzenSC6q8Q_gQeWmLw) (Spotify)
+
+### Goth
+- [80s Goth/Post Punk/New Wave](https://open.spotify.com/playlist/05fFtCFUQNLJa7EZfHrEY1?si=195logrtQfqZx8v0H0Ul7g) (Spotify)
 
 ### Hip-Hop
 
@@ -121,16 +121,12 @@
 - [RateYourMusic - Jazz](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=jazz&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 - [RateYourMusic - Jazz fusion](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=jazz+fusion&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 
-### Punk
-- [Noise Rock | Sonemic Selects](https://open.spotify.com/playlist/5a8FRXYH1VCoTqDyVhFhas?si=9PsUTUaHTiWD_Ay3dfaXkw) (Spotify)
-- [Art Punk | Sonemic Selects](https://open.spotify.com/playlist/4v5lXcYRqL3uSw4gUtrf7t?si=hhLcVpVmSdyD4Pd6_wOYiQ) (Spotify)
-
 ### Metal
 - [Dissonant Extreme Metal](https://rateyourmusic.com/list/PenguinniNiGuenippi/dissonant-extreme-metal/) (RYM)
 - [A journey through progressive/technical metalcore](https://rateyourmusic.com/list/RNG/a-journey-through-progressive_technical-metalcore/) (RYM)
 - [CelestialVoyage - Best metal albums of all time](https://rateyourmusic.com/list/CelestialVoyage/best-metal-albums-of-all-time/) (RYM)
-- [Extreme Metal Workout](https://open.spotify.com/playlist/37i9dQZF1DWY3PJWG3ogmJ?si=wGb3y6loRBGlRo4BVt1tRA)
-- [Dream Sludge](https://rateyourmusic.com/list/nojokingmoe/dream-sludge/)
+- [Extreme Metal Workout](https://open.spotify.com/playlist/37i9dQZF1DWY3PJWG3ogmJ?si=wGb3y6loRBGlRo4BVt1tRA) (Spotify)
+- [Dream Sludge](https://rateyourmusic.com/list/nojokingmoe/dream-sludge/) (Spotify)
 - [Sumerian Records - Instrumental Inspiration (also includes some electronic)](https://open.spotify.com/playlist/4OGVT1hpKxD6P8PdGXpvkx?si=nSToTTlCSvaBqulzc0-lMA) (Spotify)
 - [Death Metal | Sonemic Selects](https://open.spotify.com/playlist/4qy3TuouIJQIB3CtNUjQoL?si=Mg5ClJmwQK6Cl7gVdTsvJA) (Spotify)
 - [RateYourMusic - Avant-garde metal](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=avant-garde+metal&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
@@ -143,3 +139,7 @@
 - [/r/sludge: Heaviest sludge metal bands](https://www.reddit.com/r/sludge/comments/947e0j/heaviest_sludge_lists/) (Reddit)
 - [/r/listentothis sludge metal thread](https://www.reddit.com/r/listentothis/comments/3k31g2/roundup_genre_appreciation_sludge_metal/?utm_source=reddit&utm_medium=usertext&utm_name=sludge&utm_content=t5_2sznn) (Reddit)
 - [/r/djent: Any good heavier djent bands?](https://www.reddit.com/r/Djent/comments/82lvna/any_good_heavier_djent_bands/) (Reddit)
+
+### Punk
+- [Noise Rock | Sonemic Selects](https://open.spotify.com/playlist/5a8FRXYH1VCoTqDyVhFhas?si=9PsUTUaHTiWD_Ay3dfaXkw) (Spotify)
+- [Art Punk | Sonemic Selects](https://open.spotify.com/playlist/4v5lXcYRqL3uSw4gUtrf7t?si=hhLcVpVmSdyD4Pd6_wOYiQ) (Spotify)

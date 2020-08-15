@@ -49,6 +49,18 @@ module.exports = {
         target: '_self'
       },
     ],
+    sidebar: {
+      '/md/': [
+        {
+          title: 'Coding',
+          collapsable: false,
+          children: [
+            '',
+            'stars',
+          ]
+        }
+      ],
+    },
   },
 
   /**

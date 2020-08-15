@@ -52,6 +52,7 @@ sidebar: auto
 - [Rape in Sweden](https://en.wikipedia.org/wiki/Rape_in_Sweden) (Wikipedia)
 
 ## COVID-19
+- [Case/Death Count, Updated Regularly](https://www.worldometers.info/coronavirus/)
 - [FactCheck.org coronavirus coverage](https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/)
 - Dataset lists: [1](https://github.com/soroushchehresa/awesome-coronavirus) [2](https://github.com/bigheiniu/awesome-coronavirus19-dataset) [3](https://github.com/fnielsen/awesome-covid-19-resources) [4](https://github.com/datasets/ovid-19)
 - [NYTimes datasets (CSV files)](https://github.com/nytimes/covid-19-data)
@@ -83,6 +84,7 @@ sidebar: auto
 - [@LittleKeegs0: Argument for social democratic welfare state over UBI](https://twitter.com/LittleKeegs0/status/1270941895368290304) (Twitter)
 - [Vaush: Andrew Yang is a Trash Candidate, Here's Why](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube, main arguments start at 20:45)
 - [Minimum Wages vs. Universal Basic Income](https://www.scottsantens.com/minimum-wages-vs-universal-basic-income)
+- [UBI Center - Analyzing UBI policies with open source research](https://www.ubicenter.org/home)
 
 ### Healthcare
 - [/r/askeconomics: Why hasn't competition between health insurance companies brought down the price of premiums/deductibles?](https://www.reddit.com/r/AskEconomics/comments/f8wk5d/why_hasnt_competition_between_health_insurance/) (Reddit)

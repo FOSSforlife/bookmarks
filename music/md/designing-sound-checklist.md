@@ -2,19 +2,19 @@
 # 1. Theory
 
 - [x] 2 Theory Introduction 7
-- [ ] 3 Physical Sound 9
-  - [ ] 3.1 Elementary Physics 9
-    - [ ] Energy 9
-    - [ ] Force 9
-    - [ ] Pressure 9
-    - [ ] Work 10
-    - [ ] Systems 10
-    - [ ] Power 10
-    - [ ] Energy Sources 10
-    - [ ] Matter and Mass 11
-    - [ ] Force, Distance, and Acceleration 11
-    - [ ] Displacement, Movement, and Freedom 12
-    - [ ] Excitation 12
+- [x] 3 Physical Sound 9
+  - [x] 3.1 Elementary Physics 9
+    - [x] Energy 9
+    - [x] Force 9
+    - [x] Pressure 9
+    - [x] Work 10
+    - [x] Systems 10
+    - [x] Power 10
+    - [x] Energy Sources 10
+    - [x] Matter and Mass 11
+    - [x] Force, Distance, and Acceleration 11
+    - [x] Displacement, Movement, and Freedom 12
+    - [x] Excitation 12
   - [ ] 3.2 Materials 12
     - [ ] Elasticity and Restoration 13
     - [ ] Density 15

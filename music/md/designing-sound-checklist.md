@@ -1,0 +1,667 @@
+
+# 1. Theory
+
+- [x] 2 Theory Introduction 7
+- [ ] 3 Physical Sound 9
+  - [ ] 3.1 Elementary Physics 9
+    - [ ] Energy 9
+    - [ ] Force 9
+    - [ ] Pressure 9
+    - [ ] Work 10
+    - [ ] Systems 10
+    - [ ] Power 10
+    - [ ] Energy Sources 10
+    - [ ] Matter and Mass 11
+    - [ ] Force, Distance, and Acceleration 11
+    - [ ] Displacement, Movement, and Freedom 12
+    - [ ] Excitation 12
+  - [ ] 3.2 Materials 12
+    - [ ] Elasticity and Restoration 13
+    - [ ] Density 15
+    - [ ] Plasticity 16
+    - [ ] Structure and Strength 17
+  - [ ] 3.3 Waves 17
+    - [ ] Wave Models 17
+    - [ ] Exchange of Forces 18
+    - [ ] Propagation 19
+    - [ ] Wave Types 20
+    - [ ] Amplitude 20
+    - [ ] Speed 21
+    - [ ] Group and Phase Velocity 22
+    - [ ] Wavelength 23
+    - [ ] Frequency and Period 23
+    - [ ] Simple Wave Math 23
+    - [ ] Phase 24
+    - [ ] Superposition and Phase Cancellation 24
+  - [ ] 3.4 Boundaries 25
+    - [ ] Phase of Bending Waves at Solid Boundaries 26
+    - [ ] Coupling 28
+    - [ ] Reflection and Standing Waves 28
+    - [ ] Modes 29
+    - [ ] Visualising Sound Waves 30
+    - [ ] Shape 30
+    - [ ] Entropy and Heat 31
+    - [ ] Loss and Damping 31
+  - [ ] 3.5 Analogues 32
+    - [ ] Potential 32
+    - [ ] Energy Inlet 33
+    - [ ] Flow 33
+    - [ ] Resistance 33
+    - [ ] Tap or Outlet 34
+    - [ ] Capacitance 34
+    - [ ] Example Network Analogy 35
+    - [ ] Example System Analysis 36
+    - [ ] Acknowledgements 37
+    - [ ] References 37
+- [ ] 4 Oscillations 39
+  - [ ] 4.1 Oscillators 39
+    - [ ] Period and Frequency 39
+    - [ ] Frequency of a Spinning Object 39
+    - [ ] Relaxation 41
+    - [ ] Frequency of Relaxation Systems 42
+    - [ ] Quantisation 43
+  - [ ] 4.2 Simple Harmonic Oscillators 43
+    - [ ] Frequency of a Mass on Spring 44
+    - [ ] Frequency of a Pendulum 46
+    - [ ] Frequency of an LC Network 46
+  - [ ] 4.3 Complex Harmonic Oscillators 48
+    - [ ] Oscillation of a String 48
+    - [ ] Oscillation of a Bar or Rod 49
+    - [ ] Oscillation of Cones, Membranes, Laminas 50
+  - [ ] 4.4 Driven Oscillations and Resonance 51
+    - [ ] References 53
+- [ ] 5 Acoustics 55
+  - [ ] 5.1 Acoustic Systems 55
+    - [ ] Vibrations in Air 55
+    - [ ] Radiation 56
+    - [ ] Radiation Patterns 56
+    - [ ] Spherical, Cylindrical, and Planar Waves 57
+  - [ ] 5.2 Intensity and Attenuation 58
+    - [ ] Sound Pressure Level 58
+    - [ ] Position and Correlation 58
+    - [ ] Acoustic Sound Intensity 59
+    - [ ] Geometric Attenuation 60
+    - [ ] Transmission and Absorption 61
+  - [ ] 5.3 Other Propagation Effects 62
+    - [ ] Reflection 62
+    - [ ] Scattering 62
+    - [ ] Dispersion 63
+    - [ ] Refraction 63
+    - [ ] Diffraction 64
+    - [ ] Diffusion 65
+    - [ ] Ground Effects 66
+    - [ ] Oblique Boundary Loss 66
+    - [ ] Wind Shear 67
+    - [ ] Aberration 67
+    - [ ] The Doppler Effect 67
+    - [ ] Room Acoustics 67
+    - [ ] Reverb Time 68
+    - [ ] Outdoor Acoustics 70
+  - [ ] 5.4 Acoustic Oscillations 70
+    - [ ] Turbulence 70
+    - [ ] Reynolds Number 71
+    - [ ] Sounds of Turbulence 71
+    - [ ] Pipes 71
+    - [ ] Radiation from Pipes and Horns 73
+    - [ ] Helmholtz Oscillator 73
+    - [ ] Textbooks 74
+    - [ ] Papers 74
+    - [ ] Online Resources 74
+- [ ] 6 Psychoacoustics 77
+  - [ ] 6.1 Perceiving Sounds 77
+    - [ ] Ears 77
+    - [ ] Frequency Range of Human Hearing 78
+    - [ ] Nonlinearity 78
+    - [ ] Threshold of Hearing 78
+    - [ ] Just Noticeable Difference 79
+    - [ ] Localisation 79
+    - [ ] Interaural Time Difference 79
+    - [ ] Interaural Intensity Difference 80
+    - [ ] Head Response Transfer Function 80
+    - [ ] Distance 80
+    - [ ] Source Identity 81
+    - [ ] Perception of Loudness 81
+    - [ ] Loudness Scales and Weighting 81
+    - [ ] Duration and Loudness 82
+    - [ ] Fatigue 83
+    - [ ] Change of Loudness 83
+    - [ ] Perception of Frequency 83
+    - [ ] Pure Tone Discrimination 83
+    - [ ] Critical Bands 83
+    - [ ] Ranges 84
+    - [ ] Resolution 85
+    - [ ] Average of Close Components 85
+    - [ ] Rapid Change of Amplitude 85
+    - [ ] Phantom Fundamentals 86
+    - [ ] Huggins Binaural Pitch 86
+    - [ ] Bilsen Band Edge Pitch 86
+    - [ ] Perception of Spectra 86
+    - [ ] Perception of Harmonic and Inharmonic Spectra 87
+    - [ ] Consonance, Harmony, and Roughness 87
+    - [ ] Brightness, Dullness, and Spectral Centroid 88
+    - [ ] Resonance, Flatness, and Formants 88
+    - [ ] Perception of Temporal Structure 88
+    - [ ] Granularity 89
+    - [ ] Events and Flows 89
+    - [ ] Envelopes 89
+    - [ ] Attack 89
+    - [ ] Transient and Rise Time 90
+    - [ ] Slow Attacks 90
+    - [ ] Decay 90
+    - [ ] Sustain 90
+    - [ ] Release 91
+    - [ ] Effort and Movement 91
+    - [ ] Precedence and Belonging 91
+    - [ ] Gabor Limit for Duration 91
+    - [ ] Hirsh Limit for Ordering 91
+    - [ ] Streaming 92
+    - [ ] Streaming by Pitch 92
+    - [ ] Van Noorden Ambiguity 92
+    - [ ] Spectral and Spacial Streams 92
+  - [ ] 6.2 Sound Cognition 93
+    - [ ] Gestalt Effects 93
+    - [ ] Discrimination 93
+    - [ ] Scaling 94
+    - [ ] Similarity 94
+    - [ ] Matching 95
+    - [ ] Classification 95
+    - [ ] Identification 95
+    - [ ] Recognition 95
+    - [ ] Attention 96
+    - [ ] Correspondence 96
+    - [ ] Asynchronous Sound 96
+    - [ ] Acousmatic Sound 97
+    - [ ] The Audiovisual Contract 97
+    - [ ] Absence 97
+    - [ ] Concurrent Masking 98
+    - [ ] Temporal Proximity Masking 98
+  - [ ] 6.3 Auditory Scene Analysis 99
+    - [ ] Segregation 99
+    - [ ] Schema Activation 100
+    - [ ] Primitive Features 100
+    - [ ] Harmonicity 100
+    - [ ] Continuity 101
+    - [ ] Momentum 101
+    - [ ] Monotonicity 101
+    - [ ] Temporal Correlation 102
+    - [ ] Coherence 102
+    - [ ] The Process of Scene Analysis 102
+  - [ ] 6.4 Auditory Memory 103
+    - [ ] Short- and Long-term Memory 103
+    - [ ] Auditory Pipeline 103
+    - [ ] Verbal and Nonverbal Memory 103
+    - [ ] Visual Augmentation 104
+  - [ ] 6.5 Listening Strategies 104
+    - [ ] Listening Hierarchy 104
+    - [ ] Reflexive 104
+    - [ ] Connotative 105
+    - [ ] Causal 105
+    - [ ] Empathetic 105
+    - [ ] Functional 105
+    - [ ] Semantic 106
+    - [ ] Critical 106
+    - [ ] Reduced 106
+    - [ ] Analytic Listening 106
+    - [ ] Component Analysis 106
+    - [ ] Signal Listening 107
+    - [ ] Engaged 107
+  - [ ] 6.6 Physiological Responses to Sound 108
+    - [ ] Stapedius Reflex 108
+    - [ ] Startle Response 108
+    - [ ] Orientation Response 108
+    - [ ] Ecstatic Response 108
+    - [ ] Stress Responses 109
+    - [ ] Binaural Beat Entrainment 109
+    - [ ] Psychotherapeutical Applications and Art 109
+    - [ ] Cross-modal Perception 110
+  - [ ] 6.7 Sound, Language, and Knowledge 110
+    - [ ] Imagining Sound 110
+    - [ ] Talking about Sound 111
+    - [ ] Noun Descriptions 111
+    - [ ] Adjective and Adjunctive Descriptions 111
+    - [ ] Gerund Verb Descriptions 111
+    - [ ] Onomatopoeia and Alliteration 112
+    - [ ] Reference Points 112
+    - [ ] Procedural Knowledge 112
+    - [ ] Declarative Domain Knowledge 112
+    - [ ] Imperative Knowledge 113
+    - [ ] Poetic Knowledge 113
+    - [ ] Categorical Knowledge 113
+    - [ ] Weak Cultural Domain Knowledge 113
+    - [ ] Strong Cultural Domain Knowledge 113
+    - [ ] Exercises 114
+    - [ ] Exercise 1—Perception 114
+    - [ ] Exercise 2—Language 114
+    - [ ] Exercise 3—Knowledge and Communication 114
+    - [ ] Acknowledgements 114
+    - [ ] References 114
+    - [ ] Books 114
+    - [ ] Papers 115
+    - [ ] Online Resources 117
+- [ ] 7 Digital Signals 119
+  - [ ] 7.1 Signals 119
+    - [ ] Transducers 119
+    - [ ] Electronic, Continuous Signals 119
+    - [ ] Sound Transducers 119
+    - [ ] Information 119
+    - [ ] Representing Signals 120
+    - [ ] Digital Encoding 121
+    - [ ] Digital-to-Analog Conversion 121
+    - [ ] Analog-to-Digital Conversion 122
+    - [ ] Digital Signal Processing 123
+    - [ ] Floating Point Normalised Form 123
+    - [ ] Smoothing Samples 124
+  - [ ] 7.2 Graphs 125
+    - [ ] Spectra 125
+    - [ ] Spectrograms 126
+    - [ ] Waterfall Plots 127
+  - [ ] 7.3 Generating Digital Waveforms 128
+    - [ ] Generating Samples 128
+    - [ ] Buffering 128
+    - [ ] The Sound of Zero (Silence) 129
+    - [ ] The Sound of One (Constants) 129
+    - [ ] Moving Signals 131
+    - [ ] Sinusoidal Waves 132
+    - [ ] Complex Harmonic Motion 134
+    - [ ] Randomly Moving Signals 136
+    - [ ] Suddenly Moving Signals 137
+    - [ ] Slowly Moving Signals 139
+    - [ ] Signal Programming Abstraction 141
+    - [ ] A Csound Snippet 142
+    - [ ] A CLM Snippet 142
+    - [ ] Acknowledgements 143
+    - [ ] References 143
+    - [ ] Books 143
+    - [ ] Papers 143
+    - [ ] Online Resources 144
+    
+# 2. Tools
+
+- [ ] 8 Tools Introduction 147
+  - [ ] 8.1 What You Will Need 147
+  - [ ] 8.2 Tools for Sound Design 147
+  - [ ] 8.3 Supporting Tools 148
+- [ ] 9 Starting with Pure Data 149
+  - [ ] 9.1 Pure Data 149
+    - [ ] Installing and Running Pure Data 150
+    - [ ] Testing Pure Data 150
+  - [ ] 9.2 How Does Pure Data Work? 151
+    - [ ] Objects 152
+    - [ ] Connections 152
+    - [ ] Data 152
+    - [ ] Patches 152
+    - [ ] A Deeper Look at Pd 153
+    - [ ] Pure Data Software Architecture 153
+    - [ ] Your First Patch 153
+    - [ ] Creating a Canvas 155
+    - [ ] New Object Placement 155
+    - [ ] Edit Mode and Wiring 155
+    - [ ] Initial Parameters 156
+    - [ ] Modifying Objects 156
+    - [ ] Number Input and Output 156
+    - [ ] Toggling Edit Mode 156
+    - [ ] More Edit Operations 157
+    - [ ] Patch Files 157
+  - [ ] 9.3 Message Data and GUI Boxes 157
+    - [ ] Selectors 158
+    - [ ] Bang Message 158
+    - [ ] Bang Box 158
+    - [ ] Float Messages 158
+    - [ ] Number Box 159
+    - [ ] Toggle Box 159
+    - [ ] Sliders and Other Numerical GUI Elements 159
+    - [ ] General Messages 160
+    - [ ] Message Box 160
+    - [ ] Symbolic Messages 160
+    - [ ] Symbol Box 161
+    - [ ] Lists 161
+    - [ ] Pointers 161
+    - [ ] Tables, Arrays, and Graphs 161
+  - [ ] 9.4 Getting Help with Pure Data 162
+    - [ ] Exercises 163
+    - [ ] Exercise 1 163
+    - [ ] Exercise 2 163
+    - [ ] Exercise 3 163
+    - [ ] References 163
+- [ ] 10 Using Pure Data 165
+  - [ ] 10.1 Basic Objects and Principles of Operation 165
+    - [ ] Hot and Cold Inlets 165
+    - [ ] Bad Evaluation Order 165
+    - [ ] Trigger Objects 166
+    - [ ] Making Cold Inlets Hot 166
+    - [ ] Float Objects 166
+    - [ ] Int Objects 167
+    - [ ] Symbol and List Objects 167
+    - [ ] Merging Message Connections 167
+  - [ ] 10.2 Working with Time and Events 167
+    - [ ] Metronome 167
+    - [ ] A Counter Timebase 168
+    - [ ] Time Objects 168
+    - [ ] Select 169
+  - [ ] 10.3 Data Flow Control 169
+    - [ ] Route 169
+    - [ ] Moses 170
+    - [ ] Spigot 170
+    - [ ] Swap 170
+    - [ ] Change 170
+    - [ ] Send and Receive Objects 171
+    - [ ] Broadcast Messages 171
+    - [ ] Special Message Destinations 171
+    - [ ] Message Sequences 171
+  - [ ] 10.4 List Objects and Operations 172
+    - [ ] Packing and Unpacking Lists 172
+    - [ ] Substitutions 173
+    - [ ] Persistence 173
+    - [ ] List Distribution 173
+    - [ ] More Advanced List Operations 174
+  - [ ] 10.5 Input and Output 174
+    - [ ] The Print Object 175
+    - [ ] MIDI 175
+  - [ ] 10.6 Working with Numbers 177
+    - [ ] Arithmetic Objects 177
+    - [ ] Trigonometric Maths Objects 178
+    - [ ] Random Numbers 178
+    - [ ] Arithmetic Example 178
+    - [ ] Comparative Objects 178
+    - [ ] Boolean Logical Objects 178
+  - [ ] 10.7 Common Idioms 179
+    - [ ] Constrained Counting 179
+    - [ ] Accumulator 179
+    - [ ] Rounding 180
+    - [ ] Scaling 180
+    - [ ] Looping with Until 180
+    - [ ] Message Complement and Inverse 181
+    - [ ] Random Selection 182
+    - [ ] Weighted Random Selection 182
+    - [ ] Delay Cascade 182
+    - [ ] Last Float and Averages 182
+    - [ ] Running Maximum (or Minimum) 183
+    - [ ] Float Low Pass 183
+- [ ] 11 Pure Data Audio 185
+  - [ ] 11.1 Audio Objects 185
+    - [ ] Audio Connections 185
+    - [ ] Blocks 185
+    - [ ] Audio Object CPU Use 185
+    - [ ] 11.2 Audio Objects and Principles 186
+    - [ ] Fanout and Merging 186
+    - [ ] Time and Resolution 187
+    - [ ] Audio Signal Block to Messages 187
+    - [ ] Sending and Receiving Audio Signals 187
+    - [ ] Audio Generators 187
+    - [ ] Audio Line Objects 189
+    - [ ] Audio Input and Output 189
+    - [ ] Example: A Simple MIDI Monosynth 189
+    - [ ] Audio Filter Objects 190
+    - [ ] Audio Arithmetic Objects 191
+    - [ ] Trigonometric and Math Objects 191
+    - [ ] Audio Delay Objects 191
+    - [ ] References 192
+  - [ ] 12 Abstraction 193
+    - [ ] 12.1 Subpatches 193
+    - [ ] Copying Subpatches 194
+    - [ ] Deep Subpatches 194
+    - [ ] Abstractions 195
+    - [ ] Scope and $0 196
+  - [ ] 12.2 Instantiation 196
+  - [ ] 12.3 Editing 197
+  - [ ] 12.4 Parameters 197
+  - [ ] 12.5 Defaults and States 198
+  - [ ] 12.6 Common Abstraction Techniques 199
+    - [ ] Graph on Parent 199
+    - [ ] Using List Inputs 200
+    - [ ] Packing and Unpacking 200
+    - [ ] Control Normalisation 201
+    - [ ] Summation Chains 202
+    - [ ] Routed Inputs 203
+- [ ] 13 Shaping Sound 205
+  - [ ] 13.1 Amplitude-Dependent Signal Shaping 205
+    - [ ] Simple Signal Arithmetic 205
+    - [ ] Limits 207
+    - [ ] Wave Shaping 207
+    - [ ] Squaring and Roots 209
+    - [ ] Curved Envelopes 210
+  - [ ] 13.2 Periodic Functions 211
+    - [ ] Wrapping Ranges 211
+    - [ ] Cosine Function 211
+  - [ ] 13.3 Other Functions 212
+    - [ ] Polynomials 212
+    - [ ] Expressions 213
+  - [ ] 13.4 Time-Dependent Signal Shaping 213
+    - [ ] Delay 214
+    - [ ] Phase Cancellation 214
+    - [ ] Filters 215
+    - [ ] User-Friendly Filters 215
+    - [ ] Integration 215
+    - [ ] Differentiation 217
+    - [ ] References 217
+- [ ] 14 Pure Data Essentials 219
+  - [ ] 14.1 Channel Strip 219
+    - [ ] Signal Switch 219
+    - [ ] Simple Level Control 219
+    - [ ] Using a Log Law Fader 220
+    - [ ] MIDI Fader 220
+    - [ ] Mute Button and Smooth Fades 221
+    - [ ] Panning 221
+    - [ ] Simple Linear Panner 221
+    - [ ] Square Root Panner 222
+    - [ ] Cosine Panner 222
+    - [ ] Crossfader 224
+    - [ ] Demultiplexer 224
+  - [ ] 14.2 Audio File Tools 225
+    - [ ] Monophonic Sampler 225
+    - [ ] File Recorder 226
+    - [ ] Loop Player 227
+  - [ ] 14.3 Events and Sequencing 227
+    - [ ] Timebase 227
+    - [ ] Select Sequencer 228
+    - [ ] Partitioning Time 229
+    - [ ] Dividing Time 229
+    - [ ] Event-Synchronised LFO 229
+    - [ ] List Sequencer 230
+    - [ ] Textfile Control 231
+  - [ ] 14.4 Effects 232
+    - [ ] Stereo Chorus/Flanger Effect 232
+    - [ ] Simple Reverberation 233
+    - [ ] Exercises 235
+    - [ ] Exercise 1 235
+    - [ ] Exercise 2 235
+    - [ ] Exercise 3 235
+    - [ ] Exercise 4 235
+    - [ ] Acknowledgements 235
+    - [ ] References 235
+    - [ ] Online Resources 236
+
+# 3. Technique
+
+- [ ] 15 Technique Introduction 239
+  - [ ] 15.1 Techniques of Sound Design 239
+    - [ ] Layered Approach 239
+    - [ ] The Middle Layer 240
+    - [ ] References 241
+- [ ] 16 Strategic Production 243
+  - [ ] 16.1 Working Methods 243
+    - [ ] Listen 243
+    - [ ] Stimulate 243
+    - [ ] Use Scale 243
+    - [ ] Vary Scope 243
+    - [ ] Keep Moving 244
+    - [ ] Balance Priorities 244
+    - [ ] Reuse and Share Successful Techniques 244
+    - [ ] Create a Comfortable Working Space 244
+    - [ ] Invite Input 245
+  - [ ] 16.2 SE Approaches 245
+    - [ ] Structured Approach Summary 245
+  - [ ] 16.3 Requirements Analysis Process 247
+    - [ ] Consensus of Vision 248
+    - [ ] Requirements Specification Document 249
+    - [ ] Writing Requirements Specifications 249
+    - [ ] Placeholders and Attachment 249
+    - [ ] Target Medium 250
+  - [ ] 16.4 Research 250
+    - [ ] Papers, Books, TV Documentaries 250
+    - [ ] Schematics and Plans 251
+    - [ ] Analytical, Partial Recording 251
+    - [ ] Impulses and Test Excitations 252
+    - [ ] Physical Deconstruction 252
+  - [ ] 16.5 Creating a Model 252
+    - [ ] Model Abstraction 253
+  - [ ] 16.6 Analysis 254
+    - [ ] Waveform Analysis 254
+    - [ ] Spectral Analysis 254
+    - [ ] Physical Analysis 254
+    - [ ] Operational Analysis 254
+    - [ ] Model Parameterisation 254
+  - [ ] 16.7 Methods 255
+    - [ ] Piecewise 256
+    - [ ] Pure Additive 256
+    - [ ] Mixed Additive Composites 256
+    - [ ] Wavetables 256
+    - [ ] Subtractive 257
+    - [ ] Nonlinear 257
+    - [ ] Granular 257
+    - [ ] Physical 258
+  - [ ] 16.8 Implementation 258
+    - [ ] Encapsulation 259
+    - [ ] Internal Control 259
+    - [ ] Interface 259
+  - [ ] 16.9 Parameterisation 259
+    - [ ] Decoupling 259
+    - [ ] Orthogonality and Parameter Space 260
+    - [ ] Efficiency of Parameter Space 260
+    - [ ] Factoring/Collapsing 261
+  - [ ] 16.10 Practice and Psychology 261
+    - [ ] Design Cycle 261
+    - [ ] Objectification 262
+    - [ ] Expediency 262
+    - [ ] Flow 262
+    - [ ] Concentration, Familiarity, Simplicity 263
+    - [ ] Time and Vision 264
+    - [ ] References 264
+    - [ ] Online Resources 265
+- [ ] 17 Technique 1—Summation 267
+  - [ ] 17.1 Additive Synthesis 267
+  - [ ] 17.2 Discrete Summation Synthesis 270
+  - [ ] 17.3 Precomputation 273
+    - [ ] References 274
+- [ ] 18 Technique 2—Tables 277
+  - [ ] 18.1 Wavetable Synthesis 277
+  - [ ] 18.2 Practical Wavetables 278
+  - [ ] 18.3 Vector Synthesis 279
+  - [ ] 18.4 Wavescanning Synthesis 280
+    - [ ] References 281
+- [ ] 19 Technique 3—Nonlinear Functions 283
+  - [ ] 19.1 Waveshaping 283
+    - [ ] Table Transfer Functions 283
+  - [ ] 19.2 Chebyshev Polynomials 285
+    - [ ] References 289
+- [ ] 20 Technique 4—Modulation 291
+  - [ ] 20.1 Amplitude Modulation 291
+  - [ ] 20.2 Adding Sidebands 293
+  - [ ] 20.3 Cascade AM, with Other Spectra 294
+  - [ ] 20.4 Single Sideband Modulation 295
+  - [ ] 20.5 Frequency Modulation 296
+    - [ ] Negative Frequencies 301
+    - [ ] Phase Modulation 303
+    - [ ] References 303
+- [ ] 21 Technique 5—Grains 305
+  - [ ] 21.1 Granular Synthesis 305
+    - [ ] A Grain Generator 305
+    - [ ] Types of Granular Synthesis 307
+    - [ ] Sound Hybridisation 309
+    - [ ] A Granular Texture Source 310
+  - [ ] 21.2 Time and Pitch Alteration 312
+    - [ ] References 313
+    - [ ] Textbooks 313
+    - [ ] Papers 313
+- [ ] 22 Game Audio 315
+  - [ ] 22.1 Virtual Reality Fundamentals 315
+    - [ ] Game Objects 315
+    - [ ] Object Methods 315
+    - [ ] Object Views 315
+    - [ ] Object Behaviours 316
+    - [ ] The Players 316
+    - [ ] World Geometry 316
+    - [ ] Stages 317
+    - [ ] Platforms 317
+    - [ ] Game Logic 317
+    - [ ] Actors and Relevance 317
+  - [ ] 22.2 Samples or Procedural Audio? 318
+    - [ ] Events versus Behaviours 318
+    - [ ] Limitations of Sample-Based Audio 318
+  - [ ] 22.3 Traditional Game Audio Engine Functions 319
+    - [ ] Switching 319
+    - [ ] Sequence and Randomisation 319
+    - [ ] Blending 319
+    - [ ] Grouping and Buses 319
+    - [ ] Real-Time Controllers 319
+    - [ ] Localisation 320
+    - [ ] Ambiance 320
+    - [ ] Attenuation and Damping 320
+    - [ ] Replication and Alignment 320
+    - [ ] Music Dialogue and Menus 320
+  - [ ] 22.4 Procedural Audio Advantages 321
+    - [ ] Deferred Form 321
+    - [ ] Default Forms 321
+    - [ ] Variety 321
+    - [ ] Variable Cost 322
+    - [ ] Dynamic LOAD 322
+  - [ ] 22.5 Challenges for New Game Audio Systems 323
+    - [ ] Dynamic Graph Configuration 323
+    - [ ] Denormal and Drift Contingencies 323
+    - [ ] Automatic Code Translation 324
+    - [ ] Embedding a Pd Interpreter 324
+    - [ ] Plugins 324
+    - [ ] Cost Metrics 325
+    - [ ] Hybrid Architectures 325
+    - [ ] Hard Sounds 325
+    - [ ] References 326
+    - [ ] Books 326
+    - [ ] Papers 326
+    - [ ] Online Sources 326
+    
+# 4. Practicals
+
+- [ ] 23 Practicals Introduction 329
+- [ ] Practical Series—Artificial Sounds 331
+  - [ ] 24 Pedestrians 333
+  - [ ] 25 Phone Tones 337
+  - [ ] 26 DTMF Tones 343
+  - [ ] 27 Alarm Generator 347
+  - [ ] 28 Police 355
+- [ ] Practical Series—Idiophonics 365
+  - [ ] 29 Telephone Bell 367
+  - [ ] 30 Bouncing 383
+  - [ ] 31 Rolling 387
+  - [ ] 32 Creaking 395
+  - [ ] 33 Boing 401
+- [ ] Practical Series—Nature 407
+  - [ ] 34 Fire 409
+  - [ ] 35 Bubbles 419
+  - [ ] 36 Running Water 429
+  - [ ] 37 Pouring 437
+  - [ ] 38 Rain 441
+  - [ ] 39 Electricity 451
+  - [ ] 40 Thunder 459
+  - [ ] 41 Wind 471
+- [ ] Practical Series—Machines 483
+  - [ ] 42 Switches 485
+  - [ ] 43 Clocks 491
+  - [ ] 44 Motors 499
+  - [ ] 45 Cars 507
+  - [ ] 46 Fans 517
+  - [ ] 47 Jet Engine 523
+  - [ ] 48 Helicopter 529
+- [ ] Practical Series—Lifeforms 545
+  - [ ] 49 Footsteps 547
+  - [ ] 50 Insects 557
+  - [ ] 51 Birds 571
+  - [ ] 52 Mammals 579
+- [ ] Practical Series—Mayhem 591
+  - [ ] 53 Guns 593
+  - [ ] 54 Explosions 607
+  - [ ] 55 Rocket Launcher 617
+- [ ] Practical Series—Science-Fiction 627
+  - [ ] 56 Transporter 629
+  - [ ] 57 R2D2 635
+  - [ ] 58 Red Alert 641
+

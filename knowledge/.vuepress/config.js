@@ -27,11 +27,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/fossforlife/bookmarks/',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
-    lastUpdated: false,
+    lastUpdated: 'Last Updated',
     nav: [
       {
         text: 'Coding',

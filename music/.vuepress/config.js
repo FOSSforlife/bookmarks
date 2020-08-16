@@ -56,7 +56,8 @@ module.exports = {
           collapsable: false,
           children: [
             'discovery',
-            'production',
+            'production-guides',
+            'production-software',
             'daw-project'
           ]
         }

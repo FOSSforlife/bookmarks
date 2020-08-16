@@ -42,9 +42,9 @@ Idea: A fully modular DAW that lets you compose, synthesize, and mix professiona
 ### Wavetables
 
 - Vital
-- Hive .uhm format
+- [Hive .uhm format](https://u-he.com/downloads/manuals/plugins/hive/Hive-Wavetables.pdf)
   - Might not be possible: [See this issue in Surge repo](https://github.com/surge-synthesizer/surge/issues/815). Still good for inspiration though.
-- Serum math formulas
+- [Serum math formulas](https://www.kvraudio.com/forum/viewtopic.php?t=425973)
 
 ## Other projects of interest
 

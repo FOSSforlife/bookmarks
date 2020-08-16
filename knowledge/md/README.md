@@ -204,6 +204,9 @@ sidebar: auto
 ### Colonialism
 - [@IAmSuyiDavies debunking the claim that Africa is better off due to colonization](https://threadreaderapp.com/thread/1276928013163098112.html) (Twitter)
 
+### Iraq War and 9/11
+- [Exchange between Sam Harris and Noam Chomsky](https://samharris.org/the-limits-of-discourse/)
+
 ### USSR
 - [Stalin apologetics](https://rationalwiki.org/wiki/Stalin_apologetics) (RationalWiki)
 

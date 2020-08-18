@@ -111,6 +111,12 @@
 ### Hive 2
 [Manual](https://uhedownloads-heckmannaudiogmb.netdna-ssl.com/manuals/plugins/hive/Hive-user-guide.pdf) • [Video Manual](https://www.youtube.com/playlist?list=PLNx8ODC0um5ui1tanitZ5usD5aYPD1Mpk)
 
+### Pure Data
+- [Andy Farnell - Designing Sound](https://www.amazon.com/Designing-Sound-Andy-Farnell-ebook/dp/B08BT9C274/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (eBook)
+- [FLOSS Manuals - Pure Data](http://write.flossmanuals.net/pure-data/introduction2/)
+- [Creating a Wavetable Synth](http://designingsound.org/tag/wavetable-synth-project/)
+- [Awesome Pure Data](https://github.com/virtualtam/awesome-puredata) (GitHub)
+
 ### Reaper
 [Manual](https://www.reaper.fm/userguide.php) • [REAPER Blog Courses](https://reaperblog.net/courses/)
 
@@ -131,6 +137,7 @@
 
 ### General
 - [Warp Academy - The Art of Synthesis](https://www.adsrsounds.com/product/courses/the-art-of-synthesis/) (ADSR)
+- [Andy Farnell - Designing Sound](https://www.amazon.com/Designing-Sound-Andy-Farnell-ebook/dp/B08BT9C274/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (eBook)
 - [Sound Design Courses](https://www.adsrsounds.com/csoftware/sound-design/) (ADSR)
 - [Cymatics - Serum Tutorials](https://www.youtube.com/playlist?list=PLDbnuxMmLOPBxRHZTfaYXVbHmG1K3Wucx) (YouTube)
 

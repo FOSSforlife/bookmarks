@@ -23,7 +23,7 @@
 ### Current
 - [RateYourMusic 2020 chart](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=)
 - [The Needle Drop Great Albums](https://www.youtube.com/playlist?list=PLP4CSgl7K7opy6_w-ie2fQo4U7WbgHRlJ)
-- [Metal Injection (Half-year)](https://metalinjection.net/lists/best-of-2020/metal-injection-staffs-picks-the-best-albums-of-2020-so-far)
+- [Metal Injection (Half-year list)](https://metalinjection.net/lists/best-of-2020/metal-injection-staffs-picks-the-best-albums-of-2020-so-far)
 - [2020 | Sonemic Selects](https://open.spotify.com/playlist/2XLwpm5AHRIgSUotLss175?si=VckdBan1SvSmp9V7qwbySA) (Spotify)
 - [2020: Deeper Cuts | Sonemic Selects](https://open.spotify.com/playlist/3dOdUeMdzR04IrR3jPbzdo?si=n_IhzB8USX2_mwY1XbTJiQ) (Spotify)
 

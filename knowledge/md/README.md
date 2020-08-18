@@ -203,6 +203,7 @@ sidebar: auto
 
 ### Colonialism
 - [@IAmSuyiDavies debunking the claim that Africa is better off due to colonization](https://threadreaderapp.com/thread/1276928013163098112.html) (Twitter)
+- [The Conversaton - Colonialism was a disaster and the facts prove it](https://theconversation.com/colonialism-was-a-disaster-and-the-facts-prove-it-84496)
 
 ### Iraq War and 9/11
 - [Exchange between Sam Harris and Noam Chomsky](https://samharris.org/the-limits-of-discourse/)

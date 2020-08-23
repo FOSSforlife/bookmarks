@@ -6,9 +6,9 @@ sidebar: auto
 
 ## General Resources
 
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/): My go-to site for philosophical research.
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/):
   - Also, [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
-- [RationalWiki](https://rationalwiki.org/): Great for info on critical thinking, research on controversial topics, and debunking false information. Similar to Wikipedia but more argument-focused.
+- [RationalWiki](https://rationalwiki.org/):
 - [Vaush's Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit): Contains sections on: Institutional racism, LGBTQ issues, immigration, and Holocaust denial. Continuously being expanded whenever he has a large debate.
 - [Scholarly articles used in Destiny debates (megathread)](https://www.reddit.com/r/Destiny/comments/aahwbl/scholarly_articlesstudies_megathread/): Gender, capitalism, domestic violence, immigration, cultural assimilation, psychedelic drugs, Bill C-16, other
 - [Scholarly articles used in Destiny debates (megathread) Part 2](https://www.reddit.com/r/Destiny/comments/am0gjm/scholarly_articlesstudies_megathread_2/): Gender, economics, immigration, race, crime stats, climate change, and more
@@ -16,6 +16,8 @@ sidebar: auto
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
 - [List of international rankings](https://en.wikipedia.org/wiki/List_of_international_rankings)
 - Reddit: [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [/r/changemyview](https://www.reddit.com/r/changemyview/), [/r/outoftheloop](https://www.reddit.com/r/outoftheloop/)
+- [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
+  - [Spreadsheet of posts by topic](https://docs.google.com/spreadsheets/d/13MeqT1KVPRGzB23jRxQv6uTHqq1fmq-V7b1yYiQdTOI/edit#gid=2010041126)
 
 ## 2020 Election
 - [Ballotpedia - 2020 Election](https://ballotpedia.org/Elections) - Presidential, Congressional, and local election candidate info.
@@ -23,12 +25,14 @@ sidebar: auto
   - [VoteSmart.org](https://justfacts.votesmart.org/) - similar site
 - [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
 - [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
+- [Biden v Trump infographic by Dario Rahim](https://twitter.com/DarioRahim/status/1296609077590728704)
 - [Rebecca Watson - Is it Your Moral Imperative to Vote for Joe Biden?](https://www.youtube.com/watch?v=Fj2u4OWLzEY) (YouTube)
 - [List of reasons to vote against Trump](https://www.reddit.com/r/politics/comments/fgowze/megathread_joe_biden_wins_ms_mo_mi_democratic/fk5x3bv/) (Reddit: /u/CaptainNoBoat)
 - [List of progressive policies that Biden supports](https://www.reddit.com/r/neoliberal/comments/folv0u/discussion_thread/flhws76/) (Reddit: /u/ILikeTalkingToMyself)
   - This was posted in March 2020, and Biden's campaign has become more progressive since then.
   - [David Pakman: Biden's Climate Change Proposal Is Solid](https://www.youtube.com/watch?v=DG5ZAbBGWms) (YouTube)
   - [David Pakman: Joe Biden's Tax Plan Could Be Most Progressive in History](https://www.youtube.com/watch?v=BBYlKpNcgbg) (YouTube)
+- [So You Want To Talk About: Biden's 2020 Platform](https://www.instagram.com/p/CDUAUbFnOGd/) (Instagram)
 - [Veracity of statements by Donald Trump](https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump) (Wikipedia)
 - [Joe Biden Environmental Scorecard](https://scorecard.lcv.org/moc/joe-biden) (link may be broken)
 - [Greenpeace 2020 Climate Scorecards](https://www.greenpeace.org/usa/climate2020/)
@@ -43,6 +47,7 @@ sidebar: auto
 - [The alt-right is drunk on bad readings of Nietzsche. The Nazis were too.](https://www.vox.com/2017/8/17/16140846/alt-right-nietzsche-richard-spencer-nazism) (Vox)
 - [ScotchOikos - The Libertarian to Alt-Right Pipeline](https://www.youtube.com/watch?v=LJKklcxperw) (YouTube)
 - [Faraday Speaks - My Descent Into The Alt-Right Pipeline](https://youtu.be/sfLa64_zLrU) (YouTube)
+- [The Hate-Fueled Rise of r/The_Donald—and Its Epic Takedown](https://www.wired.com/story/the-hate-fueled-rise-of-rthe-donald-and-its-epic-takedown/) (Wired)
 
 ### Immigration
 - [Destiny vs Nick Fuentes debate research doc](https://docs.google.com/document/d/1Xo_cVn-tMwr2ocnPmiUhbuSnILKXdLCiDHEjlUKI2Z8)
@@ -57,6 +62,9 @@ sidebar: auto
 - Dataset lists: [1](https://github.com/soroushchehresa/awesome-coronavirus) [2](https://github.com/bigheiniu/awesome-coronavirus19-dataset) [3](https://github.com/fnielsen/awesome-covid-19-resources) [4](https://github.com/datasets/ovid-19)
 - [NYTimes datasets (CSV files)](https://github.com/nytimes/covid-19-data)
 - [/r/COVID19_data](https://www.reddit.com/r/COVID19_data/)
+- [PSTBlog: What's the probability a person has Covid-19?](https://pstblog.com/2020/06/12/covid-prob)
+- [PSTBlog: Visualizing the Covid-19 Pandemic](https://pstblog.com/2020/06/10/covid-vis)
+- [Our World in Data: Coronavirus Pandemic](https://ourworldindata.org/coronavirus)
 - [Full text: Over 1,000 health professionals sign a letter saying, Don't shut down protests using coronavirus concerns as an excuse](https://www.cnn.com/2020/06/05/health/health-care-open-letter-protests-coronavirus-trnd/index.html) (CNN)
 - [Destiny vs NuanceBro debate document on why "Chinese virus" is racist](https://pastebin.com/WBSKB1yG)
   - [First debate](https://www.youtube.com/watch?v=wahkW2T_ulY) (YouTube)
@@ -65,10 +73,18 @@ sidebar: auto
 - [Jacobson v. Massachusetts, (1905 Supreme Court case defending mandatory vaccination in the name of public health and safety)](https://supreme.justia.com/cases/federal/us/197/11/)
   - If this was ruled Constitutional, certainly mask enforcements are.
 
+## Climate
+- [Kurzgesagt - Who Is Responsible For Climate Change? Who Needs To Fix It?](https://www.youtube.com/watch?v=ipVxxxqwBQw) (YouTube)
+- [The Story of Stuff](https://www.storyofstuff.org/movies/story-of-stuff/) (Powerful mini-doc about consumerism and waste)
+  - [The Story of Electronics](https://www.storyofstuff.org/movies/story-of-electronics/)
+- [Is climate change an “existential threat” — or just a catastrophic one?](https://www.vox.com/future-perfect/2019/6/13/18660548/climate-change-human-civilization-existential-risk) (Vox)
+
+
 ## Economics
 
 - [/r/economics wiki](https://www.reddit.com/r/economics/wiki/index) - FAQs on trade, immigration, inequality, minimum wage, automation, etc. as well as reading lists.
 - [/r/askeconomics](https://reddit.com/r/askeconomics)
+- [/r/ExplainLikeImFive (posts tagged "Economics")](https://www.reddit.com/r/explainlikeimfive/?f=flair_name%3A%22Economics%22)
 - [Crash Course Economics](https://www.youtube.com/playlist?list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ) (YouTube)
 - [Economics Explained](https://www.youtube.com/user/JitaLounge) (YouTube)
 
@@ -76,15 +92,59 @@ sidebar: auto
 - [Heterodox economics (esp. section "Rejection of neoclassical economics")](https://en.wikipedia.org/wiki/Heterodox_economics) (Wikipedia)
 - [Does Economics Breed Republicans?](https://www.theatlantic.com/business/archive/2010/06/does-economics-breed-republicans/57846/) (The Atlantic)
 - ["Liberalism at Large"](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large) (podcast episode critiquing The Economist)
+- [Culture in Decline - Economics 101](https://www.youtube.com/watch?v=KEC0GT_8l_I)
 
+### Anti-Capitalism
+- [Socialism FAQ](https://github.com/dessalines/essays/blob/master/socialism_faq.md) (GitHub)
+  - [Repo homepage (tons of essays/resources)](https://github.com/dessalines/essays)
+- [@ArashKolahi: Market capitalism is inherently undemocratic and therefore environmentally destructive (proven using economic models)](https://twitter.com/ArashKolahi/status/1232782537174347776)
+- [The Neoliberal Optmism: how "those in power cook the books and spin data to make their case for maintaining the status quo"](https://soundcloud.com/citationsneeded/episode-58-the-neoliberal-optimism-industry) (podcast)
+- [Al Jazeera - Exposing the great 'poverty reduction' lie](https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html?fbclid=IwAR0LtigHHO8G-kgiD1kSjY749wTX5kIZQZOqUlXcd15BbUWkMurDQg3nRkY)
+- [Reddit comment about how current investments are economically ineffecient](https://www.reddit.com/r/Libertarian/comments/8xrlpi/elon_musk_is_the_best/e25eckw/)
+- ["Anti-Communist Myths Debunked" Google doc shared by tankies](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs) (judging by first glance, seems filled with misinformation and historical revisionism. Could be useful for understanding the tankie mindset if nothing else)
+- [Some cool blog posts about money and RBE stuff](https://github.com/mhingston/Netonomy) (GitHub)
+- [Anarchist FAQ: Myths of capitalist economics](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-04-17)
 
-### Universal Basic Income
+#### Has Socialism Been Tried?
+- [RationalWiki - Is communism at all workable?](https://rationalwiki.org/wiki/Communism#Is_communism_at_all_workable.3F)
+  - [The few examples when communism worked out relatively fine](https://rationalwiki.org/wiki/Communism#The_few_examples_when_communism_worked_out_relatively_fine)
+- [David Pakman on the claim that "socialism has never worked"](https://www.youtube.com/watch?v=k79wCaFgU40) (YouTube)
+
+### Bankruptcy
+[/u/Arahad2's response to "Why don't we just let major airlines collapse?"](https://www.reddit.com/r/AskEconomics/comments/fk7ncs/why_dont_we_just_let_major_airlines_collapse/fkr7zpu?utm_source=share&utm_medium=web2x) (Reddit)
+
+### Bernie Sanders
+- [Reddit comment regarding some of his policies/positions](https://www.reddit.com/r/changemyview/comments/34gvus/cmvbernie_is_more_than_the_best_candidate_for/cqumdja/)
+
+### Big Tech
+- [Big Tech Abuse Tracker](https://www.economicliberties.us/big-tech-abuse-tracker/#) (American Economic Liberties Project)
+- [@matthewstoller: Thread about anti-trust hearings taking place in 2020](https://twitter.com/matthewstoller/status/1288462466029178880) (Twitter)
+- [Robert Reich: Here’s Why We Need to Break Up Big Tech](https://www.nakedcapitalism.com/2019/06/robert-reich-heres-why-we-need-to-break-up-big-tech.html)
+- [The Economist: Dismembering Big Tech](https://www.reddit.com/r/neoliberal/comments/do7m2u/dismembering_big_tech/) (Article pasted in Reddit comment)
+- [PPI: 10 Myths About Big Tech & Antitrust](https://medium.com/@progressivepolicyinstitute/10-things-you-need-to-know-about-tech-and-antitrust-6c077bf71dc5)
+
+### Calculation Problem
+- [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) (Wikipedia)
+- [/r/CapitalismVSocialism discussion](https://www.reddit.com/r/CapitalismVSocialism/comments/7lkh25/opinion_sociopathy_and_selfishness_are_important/drn5awd/)
+
+### Ending Poverty
+- [/r/economics on homelessness in San Francisco](https://www.reddit.com/r/Economics/comments/dt90c6/homelessness_surges_in_san_francisco_while_techs/)
+- [Our World in Data: Food Supply](https://ourworldindata.org/food-supply)
+- [Addressing the claim that "no one is poor simply because somebody else is wealthy"](https://www.reddit.com/r/Destiny/comments/aatxuz/there_is_not_a_single_person_apparently/ecuzbl8/) (Reddit)
+- [23 charts and maps that show the world is getting much, much better](https://www.vox.com/2014/11/24/7272929/global-poverty-health-crime-literacy-good-news?fbclid=IwAR1efpeMrMbp87sfLTP8X18Qh51zlO1uZQ4qi6CS0nXRWYZ5cmMt9DavR9k) (Vox)
+- [Matthew Ader - No, Jeff Bezos Can't End World Hunger](https://exponentsmag.org/2020/07/18/no-jeff-bezos-cant-end-world-hunger/)
+- [Homelessness in Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) (Wikipedia)
+  - [Housing First policy](https://en.wikipedia.org/wiki/Housing_First) (Wikipedia)
+- [@AlecStapp: Differences between neoliberalism and social democracy](https://threadreaderapp.com/thread/1261023890823938048.html) (Twitter)
+
+#### Universal Basic Income
 - [/r/economics wiki page (a neutral perspective)](https://www.reddit.com/r/Economics/wiki/faq_basicincome)
 - [/r/BasicIncome wiki (a positive perspective)](https://www.reddit.com/r/BasicIncome/wiki/index)
 - [@LittleKeegs0: Argument for social democratic welfare state over UBI](https://twitter.com/LittleKeegs0/status/1270941895368290304) (Twitter)
 - [Vaush: Andrew Yang is a Trash Candidate, Here's Why](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube, main arguments start at 20:45)
 - [Minimum Wages vs. Universal Basic Income](https://www.scottsantens.com/minimum-wages-vs-universal-basic-income)
 - [UBI Center - Analyzing UBI policies with open source research](https://www.ubicenter.org/home)
+- [A Canadian City Once Eliminated Poverty And Nearly Everyone Forgot About It](https://www.huffingtonpost.ca/2014/12/23/mincome-in-dauphin-manitoba_n_6335682.html) (HuffPost)
 
 ### Healthcare
 - [/r/askeconomics: Why hasn't competition between health insurance companies brought down the price of premiums/deductibles?](https://www.reddit.com/r/AskEconomics/comments/f8wk5d/why_hasnt_competition_between_health_insurance/) (Reddit)
@@ -93,18 +153,13 @@ sidebar: auto
 - [/r/badeconomics: A Critique of The Lancet's Medicare For All Study](https://www.reddit.com/r/badeconomics/comments/f4uqku/a_critique_of_the_lancets_medicare_for_all_study/) (Reddit)
 - [Last Week Tonight: Medicare For All](https://youtu.be/7Z2XRg3dy9k) (YouTube)
 
-### Wealth Disparity
-- [Addressing the claim that "no one is poor simply because somebody else is wealthy"](https://www.reddit.com/r/Destiny/comments/aatxuz/there_is_not_a_single_person_apparently/ecuzbl8/) (Reddit)
-- [/r/economics on homelessness in San Francisco](https://www.reddit.com/r/Economics/comments/dt90c6/homelessness_surges_in_san_francisco_while_techs/)
-
 ### Land Value Tax
 - [Various resources and arguments (responses to @SocksxMC's tweet)](https://twitter.com/SocksxMC/status/1276953664566034433) (Twitter)
 
-### Value Added Tax
-- [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
-
-### Bankruptcy
-[/u/Arahad2's response to "Why don't we just let major airlines collapse?"](https://www.reddit.com/r/AskEconomics/comments/fk7ncs/why_dont_we_just_let_major_airlines_collapse/fkr7zpu?utm_source=share&utm_medium=web2x) (Reddit)
+### Marx
+- [/r/AskSocialScience: Are any of Karl Marx's insights accepted by modern mainstream economists?](https://www.reddit.com/r/AskSocialScience/comments/26ry32/are_any_of_karl_marxs_insights_accepted_by_modern/) (Reddit)
+- [Summary of some Marxist principles](https://www.reddit.com/r/Marxism/comments/346ssu/please_explain_marxism_to_me_as_a_total_novice/cqsbqv5/) (Reddit)
+- [Marxian economics](https://en.wikipedia.org/wiki/Marxian_economics) (Wikipedia)
 
 ### Philanthropy
 
@@ -118,42 +173,15 @@ sidebar: auto
   - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
 
+### Trade Agreements
+- [Noam Chomsky: Every Word in the Phrase 'Free Trade Agreement' Is False](https://www.truthdig.com/articles/noam-chomsky-every-word-in-the-phrase-free-trade-agreement-is-false/) (Truthdig)
+- [Free Trade](https://rationalwiki.org/wiki/Free_trade) (RationalWiki)
+- [Trans-Pacific Partnership](https://rationalwiki.org/wiki/Trans-Pacific_Partnership) (RationalWiki)
+- [North American Free Trade Agreement](https://rationalwiki.org/wiki/North_American_Free_Trade_Agreement) (RationalWiki)
+- [Destiny and Kyle Kulinski arguing about the TPP](https://www.youtube.com/watch?v=GlxN1Btua00) (don't remember the timestamp)
 
-### Capitalism
-- [@AlecStapp: Differences between neoliberalism and social democracy](https://threadreaderapp.com/thread/1261023890823938048.html) (Twitter)
-- [23 charts and maps that show the world is getting much, much better](https://www.vox.com/2014/11/24/7272929/global-poverty-health-crime-literacy-good-news?fbclid=IwAR1efpeMrMbp87sfLTP8X18Qh51zlO1uZQ4qi6CS0nXRWYZ5cmMt9DavR9k) (Vox)
-- [Matthew Ader - No, Jeff Bezos Can't End World Hunger](https://exponentsmag.org/2020/07/18/no-jeff-bezos-cant-end-world-hunger/)
-
-#### Calculation Problem
-- [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) (Wikipedia)
-- [/r/CapitalismVSocialism discussion](https://www.reddit.com/r/CapitalismVSocialism/comments/7lkh25/opinion_sociopathy_and_selfishness_are_important/drn5awd/)
-
-### Big Tech
-- [Big Tech Abuse Tracker](https://www.economicliberties.us/big-tech-abuse-tracker/#) (American Economic Liberties Project)
-- [@matthewstoller: Thread about anti-trust hearings taking place in 2020](https://twitter.com/matthewstoller/status/1288462466029178880) (Twitter)
-- [Robert Reich: Here’s Why We Need to Break Up Big Tech](https://www.nakedcapitalism.com/2019/06/robert-reich-heres-why-we-need-to-break-up-big-tech.html)
-- [The Economist: Dismembering Big Tech](https://www.reddit.com/r/neoliberal/comments/do7m2u/dismembering_big_tech/) (Article pasted in Reddit comment)
-
-### Marx
-- [/r/AskSocialScience: Are any of Karl Marx's insights accepted by modern mainstream economists?](https://www.reddit.com/r/AskSocialScience/comments/26ry32/are_any_of_karl_marxs_insights_accepted_by_modern/) (Reddit)
-- [Summary of some Marxist principles](https://www.reddit.com/r/Marxism/comments/346ssu/please_explain_marxism_to_me_as_a_total_novice/cqsbqv5/) (Reddit)
-- [Marxian economics](https://en.wikipedia.org/wiki/Marxian_economics) (Wikipedia)
-
-
-### Anti-Capitalism
-- [@ArashKolahi: Market capitalism is inherently undemocratic and therefore environmentally destructive (proven using economic models)](https://twitter.com/ArashKolahi/status/1232782537174347776)
-- [The Neoliberal Optmism: how "those in power cook the books and spin data to make their case for maintaining the status quo"](https://soundcloud.com/citationsneeded/episode-58-the-neoliberal-optimism-industry) (podcast)
-- [Al Jazeera - Exposing the great 'poverty reduction' lie](https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html?fbclid=IwAR0LtigHHO8G-kgiD1kSjY749wTX5kIZQZOqUlXcd15BbUWkMurDQg3nRkY)
-- [Reddit comment about how current investments are economically ineffecient](https://www.reddit.com/r/Libertarian/comments/8xrlpi/elon_musk_is_the_best/e25eckw/)
-- ["Anti-Communist Myths Debunked" Google doc shared by tankies](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs) (judging by first glance, seems filled with misinformation and historical revisionism. Could be useful for understanding the tankie mindset if nothing else)
-
-### Has Socialism Been Tried?
-- [RationalWiki - Is communism at all workable?](https://rationalwiki.org/wiki/Communism#Is_communism_at_all_workable.3F)
-  - [The few examples when communism worked out relatively fine](https://rationalwiki.org/wiki/Communism#The_few_examples_when_communism_worked_out_relatively_fine)
-- [David Pakman on the claim that "socialism has never worked"](https://www.youtube.com/watch?v=k79wCaFgU40) (YouTube)
-
-### Bernie Sanders
-- [Reddit comment regarding some of his policies/positions](https://www.reddit.com/r/changemyview/comments/34gvus/cmvbernie_is_more_than_the_best_candidate_for/cqumdja/)
+### Value Added Tax
+- [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
 
 ## Energy
 - [/r/Destiny: Why are leftists against nuclear energy when it comes to fighting climate change?](https://www.reddit.com/r/Destiny/comments/g7ujkz/why_are_leftists_against_nuclear_energy_when_it/) (Reddit)
@@ -179,6 +207,8 @@ sidebar: auto
 
 ## Futurism
 - [This machine can make salty water drinkable — using only the sun’s rays](https://www.washingtonpost.com/news/energy-environment/wp/2015/05/06/this-machine-can-make-salty-water-drinkable-using-only-the-suns-rays/?postshare=3211430939131644)
+- [Post-scarcity economy](https://en.wikipedia.org/wiki/Post-scarcity_economy) (Wikipedia)
+- [Why Futurism Has a Cultural Blindspot](https://getpocket.com/explore/item/why-futurism-has-a-cultural-blindspot)
 
 ### Transhumanism
 - [PostHuman: An Introduction to Transhumanism](https://www.youtube.com/watch?v=bTMS9y8OVuY) (YouTube)
@@ -188,6 +218,8 @@ sidebar: auto
 
 
 ## Geopolitics and History
+
+- [List of atrocities committed by US authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
 
 ### Abraham Lincoln
 - [Against Unreason: Lincoln didn’t really care about the slaves until it was convenient? False](https://againstunreason.wordpress.com/2019/08/13/lincoln-didnt-really-care-about-the-slaves-until-it-was-convenient-false/)
@@ -257,6 +289,10 @@ sidebar: auto
   - [@TuckWoodstock on feds in Portland: "None of it felt surprising to folks who have been out here since June."](https://threadreaderapp.com/thread/1284251679798341632.html) (Twitter)
   - [Victoria Alexander - Anti-Racist Resource Guide](https://www.victorialynnalexander.com/antiracistresourceguide)
   - [Anti-Racism Resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs) (Google Doc)
+  - So You Want To Talk About...
+    - [Police Brutality](https://www.instagram.com/p/CAvkkj_ncLJ/#)
+    - [The 1994 Crime Bill](https://www.instagram.com/p/CBGaij6HbzW/#)
+    - [The War On Drugs](https://www.instagram.com/p/CBVWiNknYJj/#)
 
 - Arguments for Reform
   - [Campaign Zero](https://joincampaignzero.org)
@@ -268,6 +304,7 @@ sidebar: auto
 - Arguments for Abolition
   - [Critical Resistance](http://criticalresistance.org/) ([Infographic](https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf))
   - [Abolition Research Doc from @AMReese07](https://docs.google.com/document/d/1odJy1Mj5lsr94xbS_5EHhEYmvls9QsE5o7nLsyzWV4U/edit) (Google Docs)
+  - [Why do we say ACAB?](https://github.com/dessalines/essays/blob/master/acab.md)
 
 
 ## Political Studies
@@ -275,12 +312,23 @@ sidebar: auto
 - [Yale University - Political Philosophy Course](https://www.youtube.com/playlist?list=PLp-cIkvQ88-3DJkwB4iUnoHP7mUG6jFsA)
 - [Yale University - Power and Politics in Today's World](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
 - [Wireless Philosophy: Introduction to Political Philosophy](https://www.youtube.com/playlist?list=PLtKNX4SfKpzVzlrbkay2UgewNCVif3K24)
+- [So You Want To Talk About: How a Bill Becomes a Law](https://www.instagram.com/p/B-M0xy-HN3M/#)
+
+### Polling
+- [PSTBlog - One Election Visualization to Rule Them All](https://pstblog.com/2019/10/11/onevis)
+
+### Building a Better Democratic Party
+- [Beyond Trump: A Theory of Political Transition](https://plantogovern.us/beyond-trump/)
 
 ### US Corruption
+- [OpenSecrets.org - Ten Things Every Voter Should Know About Money in Politics](https://www.opensecrets.org/resources/dollarocracy/)
 - [@Public_Citizen: A coal lobbyist runs the EPA, A pharma exec runs HHS...](https://twitter.com/Public_Citizen/status/1262055530417270787) (Twitter)
 - [Salon in 2015: The cash donations Hillary simply has no answer for](https://www.salon.com/test2/2015/05/31/the_cash_donations_hillary_simply_has_no_answer_for_partner/)
+- [The Story of Citizens United v. FEC](https://www.storyofstuff.org/story-of-citizens-united-v-fec/)
+- [Vox Media - Hillary Clinton's donors by employer](https://github.com/voxmedia/data-projects/tree/master/vox-elections-2016/clinton_employers) (GitHub)
 
 ### US Public Interest vs. Enacted Policy
+- [Vox - The roots of America's democracy problem](https://youtu.be/0ySL82WbcvU) (YouTube)
 - [@ArashKolahi: The Democratic Party establishment is far to the right of the US population.](https://twitter.com/ArashKolahi/status/1285647367585374208) (Twitter)
 
 ### Voting
@@ -289,14 +337,16 @@ sidebar: auto
 - [Liquid Democracy](https://en.wikipedia.org/wiki/Liquid_democracy) (Wikipedia)
 - [Ranked Voting](https://en.wikipedia.org/wiki/Ranked_voting) (Wikipedia)
 - [Against Unreason: Is The Electoral College A Good Thing?](https://againstunreason.wordpress.com/2019/07/22/the-political-right-and-the-electoral-college/)
+- [Anarchist FAQ: Why do anarchists oppose the current system?](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-03-17)
 
 #### Digital Voting
 - [Exploring the software quality of electronic voting machines](https://github.com/Gorcenski/voting-machines) (GitHub)
 - [DemocraciaOS/DemocracyOS](https://democraciaos.org/en/)
 - [Loomio - decision making/discussion software](https://www.loomio.org/)
 - [e-Estonia - a digital society](https://e-estonia.com/)
+- [SimpleVote - An open-source, live updating, voting platform based on range voting](https://github.com/dessalines/simple-vote)
 
-### Democracy
+#### Democracy
 - [Against Unreason: Better Than Democracy](https://againstunreason.wordpress.com/2019/12/21/better-than-democracy/)
 
 ## Rationality
@@ -307,6 +357,7 @@ sidebar: auto
 - [/r/Destiny post: Intuition and rationality in decision making](https://www.reddit.com/r/Destiny/comments/8jevcj/intuition_and_rationality_in_decision_making/)
 - [Julia Galef: A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8) (YouTube)
 - [Wireless Philosophy: Introduction to Critical Thinking](https://www.youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk)
+- [Most scientific studies are wrong, but that doesn’t mean what you think it means](https://thelogicofscience.com/2016/05/10/most-scientific-studies-are-wrong-but-that-doesnt-mean-what-you-think-it-means/) (The Logic of Science)
 
 ## State of the World
 - [2030 UN Sustainable Development Goals](https://sdgs.un.org/goals)

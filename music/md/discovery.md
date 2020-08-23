@@ -105,6 +105,7 @@
 - [RateYourMusic - Industrial techno](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) ([2020](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2020&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=) | [2010s](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=2010s&genre_include=1&include_child_genres=1&genres=industrial+techno&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=))
 - [The Sound of Power Noise](https://open.spotify.com/playlist/23j3NLoqFN0Z7z3rsCZH7Q?si=mvVdXEqcSAC5PTjqijimeA) (Spotify)
 - [Adult Swim Noise compilation](https://www.adultswim.com/music/noise/)
+- [People Who Do Noise (2008 Documentary)](https://youtu.be/dGrN6PeIiOU)
 - [RYM llsts that include "Five Star Hotel - Gray Data"](https://rateyourmusic.com/release/album/five-star-hotel/gray-data/lists/)
 - [for the love of god susig, listen to more noise music other than fucking merzbow](https://rateyourmusic.com/list/burnit/for-the-love-of-god-susig-listen-to-more-noise-music-other-than-fucking-merzbow/) (RYM)
 - [Full of Hell's Guide to Noise](https://www.loudersound.com/features/full-of-hell-s-guide-to-noise)

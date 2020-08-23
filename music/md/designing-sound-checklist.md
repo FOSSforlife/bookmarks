@@ -15,11 +15,11 @@
     - [x] Force, Distance, and Acceleration 11
     - [x] Displacement, Movement, and Freedom 12
     - [x] Excitation 12
-  - [ ] 3.2 Materials 12
-    - [ ] Elasticity and Restoration 13
-    - [ ] Density 15
-    - [ ] Plasticity 16
-    - [ ] Structure and Strength 17
+  - [x] 3.2 Materials 12
+    - [x] Elasticity and Restoration 13
+    - [x] Density 15
+    - [x] Plasticity 16
+    - [x] Structure and Strength 17
   - [ ] 3.3 Waves 17
     - [ ] Wave Models 17
     - [ ] Exchange of Forces 18
@@ -274,7 +274,7 @@
     - [ ] Books 143
     - [ ] Papers 143
     - [ ] Online Resources 144
-    
+
 # 2. Tools
 
 - [ ] 8 Tools Introduction 147
@@ -618,7 +618,7 @@
     - [ ] Books 326
     - [ ] Papers 326
     - [ ] Online Sources 326
-    
+
 # 4. Practicals
 
 - [ ] 23 Practicals Introduction 329

@@ -31,11 +31,13 @@ Idea: A fully modular DAW that lets you compose, synthesize, and mix professiona
 - [Midica](https://github.com/truj/midica)
 - [MusicXML](https://www.musicxml.com/) (sheet music)
 - [Common Music](http://commonmusic.sourceforge.net/cm/res/doc/cm.html)
+- [OMF Format](https://en.wikipedia.org/wiki/Open_Media_Framework_Interchange)
 - More: [Awesome Music Programming](https://github.com/ciconia/awesome-music#music-programming)
 
 ### Live Coding
 
 - Sonic Pi
+- [Guide on Live Coding in SuperCollider](https://github.com/theseanco/howto_co34pt_liveCode)
 - More: [Awesome Livecoding](https://github.com/toplap/awesome-livecoding)
 
 ### Sound Design

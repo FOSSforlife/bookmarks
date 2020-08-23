@@ -59,6 +59,7 @@
 - [All About Distortion: from subtle to extreme phasers](https://www.adsrsounds.com/product/courses/modulation-effects-all-about-distortion-from-subtle-to-extreme-phasers/) (ADSR)
 - [In the Mix - Saturation Explained](https://www.youtube.com/watch?v=n6ew5mMN2pQ) (YouTube)
 - [Marty Music - Overdrive, Distortion, Fuzz: What's the Difference?](https://www.youtube.com/watch?v=pkqjqOa7two) (YouTube)
+- [Bitwig - Let's Build a... Distortion](https://youtu.be/yUOUF35__Lg) - Goes over different types of distortion using The Grid
 
 ### Instruments
 
@@ -99,6 +100,9 @@
 - [Simon Stokes - Ableton Live 10 The Complete Course](https://www.adsrsounds.com/product/courses/ableton-live-10-the-complete-course/) (ADSR; 58 Videos, 12 Hours)
 - [Seed to Stage Ableton videos](https://www.youtube.com/playlist?list=PL6-2QiGc1UtQFKHlhJDSOOV2vo5cZ9n90) (YouTube)
 - [Once Upon A Synth Ableton videos](https://www.youtube.com/playlist?list=PLyWVLB2iuZOMD-Q29KR1odTASe-Fs77-h)
+- [The ultimate list of (140+) shortcuts for Ableton live 10](https://youtu.be/sxjgk6kuKIE) (YouTube)
+- [Patches - Recommended defaults (for each effect)](https://patches.zone/ableton-live-10-default-presets/)
+- [Custom Lesson Panel](https://www.youtube.com/watch?v=0r9XG8GZKcs) (YouTUbe)
 
 ### Bitwig Studio
 [Manual](https://dash.bitwig.com/documentation/Bitwig%20Studio%20User%20Guide%20English.pdf) • [bitwig.community](https://bitwig.community/) • [Official YouTube](https://www.youtube.com/user/bitwig/videos)
@@ -130,8 +134,22 @@
 
 - [Dorian Day - Serum In Depth](https://www.youtube.com/playlist?list=PLG62L1YmBZ3B7y7SC6_uQBhBQeaQwK9Ee) (YouTube)
 - [SadowickProduction - Serum Tutorials](https://www.youtube.com/playlist?list=PLa9ASr8n5idDEP5xkwJ_gbihGjMkXyWDI) (YouTube)
-- [Serum Advanced Algorithm Tutorial](https://www.kvraudio.com/forum/viewtopic.php?t=425973)
+- [Serum Advanced Algorithm Tutorial](https://www.kvraudio.com/forum/viewtopic.php?t=425973) (KVR Forums)
 - [Echo Sound Works - Serum Bible](https://www.adsrsounds.com/product/courses/xfer-records-serum-bible/) (ADSR)
+- [Zen World - The Complete Guide To Master Serum](https://www.youtube.com/playlist?list=PLrqs7vRFQ4rbeHxoDJHDGL3UkHgbcLZ62) (YouTube)
+
+### Sonic Pi
+- [Synths](https://github.com/sonic-pi-net/sonic-pi/blob/main/etc/doc/cheatsheets/synths.md)
+- [Sam Aaron's gists](https://gist.github.com/samaaron)
+
+### SuperCollider
+[Docs](http://doc.sccode.org/)
+
+- [Eli Fieldsteel Video Tutorials](https://www.youtube.com/playlist?list=PLPYzvS8A_rTaNDweXe6PX4CXSGq4iEWYC) (YouTube)
+  - [Scripts/Source code](https://github.com/elifieldsteel/SuperCollider-Tutorials) (GitHub)
+- [Tutorial: Sequencing With Patterns](http://doc.sccode.org/Tutorials/Getting-Started/16-Sequencing-with-Patterns.html)
+- [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) (GitHub)
+- [Official Tutorial](https://github.com/supercollider/learn/blob/master/src/beginner/src/SUMMARY.md) (GitHub)
 
 ## Sound Design
 
@@ -140,9 +158,11 @@
 - [Andy Farnell - Designing Sound](https://www.amazon.com/Designing-Sound-Andy-Farnell-ebook/dp/B08BT9C274/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=) (eBook)
 - [Sound Design Courses](https://www.adsrsounds.com/csoftware/sound-design/) (ADSR)
 - [Cymatics - Serum Tutorials](https://www.youtube.com/playlist?list=PLDbnuxMmLOPBxRHZTfaYXVbHmG1K3Wucx) (YouTube)
+- [Listening: The Secret of Sound Design](https://youtu.be/9BM0T_rwzM8) (YouTube)
 
-### 808's
+### 808s
 - [808 / Sub Bass Masterclass](https://www.adsrsounds.com/product/courses/808-sub-bass-masterclass/) (ADSR)
+- [Cymatics - Making 808s 101](https://youtu.be/oLkE69cDGuo) (YouTube)
 
 ### Dubstep
 - [Phazen - 100 DUBSTEP TIPS AND TRICKS - FL Studio 20](https://www.youtube.com/watch?v=lTouH49Mz_I) (YouTube)
@@ -150,7 +170,8 @@
 ### FM Synthesis
 - [Composing Gloves - Sound Design with Sytrus](https://www.youtube.com/playlist?list=PLOMuI-j1vRxSkHcaAH3CT7RfHuNAbvuuO) (YouTube)
 
-
+### Snares
+- [Virtual Riot - Creating a snare from scratch in Serum](https://youtu.be/M0_cYPKz9wg) (YouTube)
 
 
 

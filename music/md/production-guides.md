@@ -15,6 +15,9 @@
 - [Ableton - Artist Stories](https://www.youtube.com/playlist?list=PLoh4MB-kbBmLeRCKg_4M5Zj65dK71-VwG)
 - [Ableton - Made in Ableton Live](https://www.youtube.com/playlist?list=PLoh4MB-kbBmKSrrUN805uH42KiBulhakP)
 
+## Audio Programming
+- [The Audio Programmer - Audio Programming For Beginners](https://www.youtube.com/playlist?list=PLLgJJsrdwhPwLOC5aNH8hLTlQYOeESORS) (uses a mix of tools, including Max for Live)
+
 ## Mixing
 
 - [Death Culture Studio](https://www.youtube.com/playlist?list=PL2C_OfCk0C6rOnFDWtsMU_gPP8c1J0n6J)
@@ -32,6 +35,7 @@
 - [URM Academy - Mixing "Heir Apparent" by Opeth](https://www.youtube.com/watch?v=1bTKY8-lmwo) (YouTube)
 - [URM Academy - Mixing "I Can Tell You About Pain" by Converge](https://www.youtube.com/watch?v=pmuJHO2q9Mc) (YouTube)
 - [REAPER Blog - Mixing a Funk Song With REAPER Stock Plugins](https://www.youtube.com/watch?v=8b0cHyyP4Jg&list=PL4mhaIEnflCBNTGK6Ggxsy-oJDANa1-Kt&index=15&t=0s) (YouTube)
+- [Why Do My Mixes Sound Bad?](https://audioordeal.co.uk/why-do-my-mixes-sound-bad/) (Audio Ordeal)
 
 ### Concepts
 - [White Sea Studio - INSTANT vs. OZONE vs. REAL MASTERING](https://www.youtube.com/watch?v=IR7WV_F0GCQ) (YouTube)
@@ -53,13 +57,19 @@
 - [SpectreSoundStudios - How to Use a Compressor](https://www.youtube.com/watch?v=EuWwq8Vidbk) (YouTube)
 - [Zen World - This Tip Helped Me Understand Compression](https://www.youtube.com/watch?v=7TqTPdl7KmY) (YouTube)
 - [EDM Tips - How to Use A Compressor (Properly)](https://www.youtube.com/watch?v=TUOBcCa0Wfw) (YouTube)
-
+- [Difference between Ableton Compressor and Glue Compressor](https://audioordeal.co.uk/whats-the-difference-between-compressor-and-glue-compressor/) (Audio Ordeal)
+- [How To Avoid Losing Character With Compression](https://audioordeal.co.uk/how-to-avoid-losing-character-with/) (Audio Ordeal)
+- [Compressor Cheatsheet](https://www.reddit.com/r/ableton/comments/ar850g/how_to_use_a_compressor_cheat_sheet/) (Reddit)
 
 ### Distortion
 - [All About Distortion: from subtle to extreme phasers](https://www.adsrsounds.com/product/courses/modulation-effects-all-about-distortion-from-subtle-to-extreme-phasers/) (ADSR)
 - [In the Mix - Saturation Explained](https://www.youtube.com/watch?v=n6ew5mMN2pQ) (YouTube)
 - [Marty Music - Overdrive, Distortion, Fuzz: What's the Difference?](https://www.youtube.com/watch?v=pkqjqOa7two) (YouTube)
 - [Bitwig - Let's Build a... Distortion](https://youtu.be/yUOUF35__Lg) - Goes over different types of distortion using The Grid
+- [Ableton: What is the difference between Dynamic Tube and Overdrive?](https://audioordeal.co.uk/ableton-what-is-the-difference-between-dynamic-tube-and-overdrive/) (Audio Ordeal)
+
+### EQ
+- [EQ Tips and Tricks](https://audioordeal.co.uk/eq-tips-and-tricks/) (Audio Ordeal)
 
 ### Instruments
 
@@ -88,11 +98,13 @@
 ## Software
 
 ### Ableton Live
+[Manual](https://www.ableton.com/en/manual/live-instrument-reference/) • [ADSR Courses](https://www.adsrsounds.com/csoftware/ableton-live/) • [ADSR YouTube](https://www.youtube.com/playlist?list=PLlsEknwQnAoSEBD3KkYgMoHOM6FcIqIWQ) • [ADSR YouTube 2](https://www.youtube.com/playlist?list=PLlsEknwQnAoTh0pXESE-Dh6VXH0flsv7D)
+
 - [SadowickProduction - Ableton 10 Ultimate Tutorial 2020](https://www.youtube.com/playlist?list=PLa9ASr8n5idAk2PpFepVai33M4AT7I3Z0) (YouTube; includes all instruments/effects)
 - [Patches - Ableton Live Tutorials](https://patches.zone/ableton-live-tutorials)
+- [The ultimate list of (140+) shortcuts for Ableton live 10](https://youtu.be/sxjgk6kuKIE) (YouTube)
 
 ### Ableton Live Instruments
-[Manual](https://www.ableton.com/en/manual/live-instrument-reference/) • [ADSR Courses](https://www.adsrsounds.com/csoftware/ableton-live/) • [ADSR YouTube](https://www.youtube.com/playlist?list=PLlsEknwQnAoSEBD3KkYgMoHOM6FcIqIWQ) • [ADSR YouTube 2](https://www.youtube.com/playlist?list=PLlsEknwQnAoTh0pXESE-Dh6VXH0flsv7D)
 
 - [Live Manual - Analog](https://www.ableton.com/en/manual/live-instrument-reference/#24-1-analog)
 - [Live Manual - Operator](https://www.ableton.com/en/manual/live-instrument-reference/#24-6-operator)
@@ -100,9 +112,15 @@
 - [Simon Stokes - Ableton Live 10 The Complete Course](https://www.adsrsounds.com/product/courses/ableton-live-10-the-complete-course/) (ADSR; 58 Videos, 12 Hours)
 - [Seed to Stage Ableton videos](https://www.youtube.com/playlist?list=PL6-2QiGc1UtQFKHlhJDSOOV2vo5cZ9n90) (YouTube)
 - [Once Upon A Synth Ableton videos](https://www.youtube.com/playlist?list=PLyWVLB2iuZOMD-Q29KR1odTASe-Fs77-h)
-- [The ultimate list of (140+) shortcuts for Ableton live 10](https://youtu.be/sxjgk6kuKIE) (YouTube)
 - [Patches - Recommended defaults (for each effect)](https://patches.zone/ableton-live-10-default-presets/)
 - [Custom Lesson Panel](https://www.youtube.com/watch?v=0r9XG8GZKcs) (YouTUbe)
+
+### Ableton Live Effects
+- [Ableton EQ Eight, EQ Three, and Channel EQ – what’s the difference?](https://audioordeal.co.uk/ableton-eq-eight-eq-three-and-channel-eq-whats-the-difference/) (Audio Ordeal)
+- [Audio Ordeal: Multiband Dynamics infographic](https://www.reddit.com/r/ableton/comments/9fnr1l/day_6_i_heard_you_guys_were_struggling_with/) (Reddit)
+- [(Gate Remixing) This Ableton remix technique just changed my life.](https://www.reddit.com/r/ableton/comments/788zhh/this_ableton_remix_technique_just_changed_my_life/) (Reddit/YouTube)
+- [Audio Ordeal: Compressor infographic (very basic)](https://www.reddit.com/r/ableton/comments/9etqeu/day_3_of_the_infographic_tips_im_going_to_aim_for/) (Reddit)
+- [Audio Ordeal: Reverb infographic](https://www.reddit.com/r/ableton/comments/9f38fo/its_day_4_and_i_realised_that_abletons_reverb/) (Reddit)
 
 ### Bitwig Studio
 [Manual](https://dash.bitwig.com/documentation/Bitwig%20Studio%20User%20Guide%20English.pdf) • [bitwig.community](https://bitwig.community/) • [Official YouTube](https://www.youtube.com/user/bitwig/videos)
@@ -128,6 +146,9 @@
 - [ReaperTV](https://www.youtube.com/channel/UCMUHt6JzCMsdtvkaJpU3KXw/playlists)
 - [REAPER Mania](https://www.youtube.com/channel/UCq297H7Ca98HlB5mVFHGSsQ)
 - [Pro Mix Academy - The Ultimate Guide to Reaper](https://dashboard.promixacademy.com/the-ultimate-guide-to-reaper-with-adam-steel/)
+- [The Ultimate Guide to ReaEQ – Reaper’s Stock EQ Plugin](https://audioordeal.co.uk/the-ultimate-guide-to-reaeq-reapers/) (Audio Ordeal)
+- [White Sea Studio: My REAPER Workflow and Template](https://youtu.be/XRPZp4Umrns) (YouTube)
+- [Aaron Loves Gear: A Better Way To Program Drums In REAPER](https://youtu.be/-Eq8mhAUYZE) (YouTube)
 
 ### Serum
 [ADSR Courses](https://www.adsrsounds.com/csoftware/serum/) • [ADSR YouTube](https://www.youtube.com/playlist?list=PLlsEknwQnAoRhzve6F7PVrn9spcnlwyd3)
@@ -151,6 +172,9 @@
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) (GitHub)
 - [Official Tutorial](https://github.com/supercollider/learn/blob/master/src/beginner/src/SUMMARY.md) (GitHub)
 
+## Songwriting
+- [Audio Ordeal: Song arrangement infographic](https://www.reddit.com/r/ableton/comments/9g1qjh/day_7_week_of_infographics_achieved_i_know_some/) (Reddit)
+
 ## Sound Design
 
 ### General
@@ -159,6 +183,7 @@
 - [Sound Design Courses](https://www.adsrsounds.com/csoftware/sound-design/) (ADSR)
 - [Cymatics - Serum Tutorials](https://www.youtube.com/playlist?list=PLDbnuxMmLOPBxRHZTfaYXVbHmG1K3Wucx) (YouTube)
 - [Listening: The Secret of Sound Design](https://youtu.be/9BM0T_rwzM8) (YouTube)
+- [Top 5 layering tips for electronic music sound designers](https://audioordeal.co.uk/5-tips-for-layering-sounds/) (Audio Ordeal)
 
 ### 808s
 - [808 / Sub Bass Masterclass](https://www.adsrsounds.com/product/courses/808-sub-bass-masterclass/) (ADSR)

@@ -18,11 +18,14 @@ sidebar: auto
 - Reddit: [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [/r/changemyview](https://www.reddit.com/r/changemyview/), [/r/outoftheloop](https://www.reddit.com/r/outoftheloop/)
 - [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
   - [Spreadsheet of posts by topic](https://docs.google.com/spreadsheets/d/13MeqT1KVPRGzB23jRxQv6uTHqq1fmq-V7b1yYiQdTOI/edit#gid=2010041126)
+- [List of chart/infographic websites](https://www.beaeconomics.com/links/)
 
 ## 2020 Election
 - [Ballotpedia - 2020 Election](https://ballotpedia.org/Elections) - Presidential, Congressional, and local election candidate info.
   - [Sample ballot by zip code](https://ballotpedia.org/Sample_Ballot_Lookup)
   - [VoteSmart.org](https://justfacts.votesmart.org/) - similar site
+  - [Vote 411](https://www.vote411.org/ballot)
+  - [BallotReady](https://www.ballotready.org/dashboard) - might be the one I end up using the most, although my ballot is not yet available
 - [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
 - [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
 - [Biden v Trump infographic by Dario Rahim](https://twitter.com/DarioRahim/status/1296609077590728704)
@@ -78,7 +81,8 @@ sidebar: auto
 - [The Story of Stuff](https://www.storyofstuff.org/movies/story-of-stuff/) (Powerful mini-doc about consumerism and waste)
   - [The Story of Electronics](https://www.storyofstuff.org/movies/story-of-electronics/)
 - [Is climate change an “existential threat” — or just a catastrophic one?](https://www.vox.com/future-perfect/2019/6/13/18660548/climate-change-human-civilization-existential-risk) (Vox)
-
+- [Do electric cars emit less CO2?](https://www.beaeconomics.com/be096/) (Beautiful Economics)
+- [Ezra Klein: How to decarbonize America — and create 25 million jobs](https://www.vox.com/podcasts/2020/8/27/21403184/saul-griffith-ezra-klein-show-solve-climate-change-green-new-deal-rewiring-america) (Vox)
 
 ## Economics
 
@@ -102,8 +106,10 @@ sidebar: auto
 - [Al Jazeera - Exposing the great 'poverty reduction' lie](https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html?fbclid=IwAR0LtigHHO8G-kgiD1kSjY749wTX5kIZQZOqUlXcd15BbUWkMurDQg3nRkY)
 - [Reddit comment about how current investments are economically ineffecient](https://www.reddit.com/r/Libertarian/comments/8xrlpi/elon_musk_is_the_best/e25eckw/)
 - ["Anti-Communist Myths Debunked" Google doc shared by tankies](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs) (judging by first glance, seems filled with misinformation and historical revisionism. Could be useful for understanding the tankie mindset if nothing else)
+  - [Similar list of resources on /r/communism, organized in sections: USSR, China, Cuba, DPRK, and Albania](https://www.reddit.com/r/communism/wiki/debunk) (Reddit)
 - [Some cool blog posts about money and RBE stuff](https://github.com/mhingston/Netonomy) (GitHub)
 - [Anarchist FAQ: Myths of capitalist economics](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-04-17)
+- [Democracy in the workplace can actually be more effective than managerialism, if not equally effective.](https://www.reddit.com/r/CapitalismVSocialism/comments/ighvyf/democracy_in_the_workplace_can_actually_be_more/) (Reddit)
 
 #### Has Socialism Been Tried?
 - [RationalWiki - Is communism at all workable?](https://rationalwiki.org/wiki/Communism#Is_communism_at_all_workable.3F)
@@ -122,6 +128,7 @@ sidebar: auto
 - [Robert Reich: Here’s Why We Need to Break Up Big Tech](https://www.nakedcapitalism.com/2019/06/robert-reich-heres-why-we-need-to-break-up-big-tech.html)
 - [The Economist: Dismembering Big Tech](https://www.reddit.com/r/neoliberal/comments/do7m2u/dismembering_big_tech/) (Article pasted in Reddit comment)
 - [PPI: 10 Myths About Big Tech & Antitrust](https://medium.com/@progressivepolicyinstitute/10-things-you-need-to-know-about-tech-and-antitrust-6c077bf71dc5)
+- [How Big Tech Makes Their Billions (revenue breakdown)](https://www.visualcapitalist.com/how-big-tech-makes-their-billions-2020/) (Visual Capitalist)
 
 ### Calculation Problem
 - [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) (Wikipedia)
@@ -132,6 +139,7 @@ sidebar: auto
 - [Our World in Data: Food Supply](https://ourworldindata.org/food-supply)
 - [Addressing the claim that "no one is poor simply because somebody else is wealthy"](https://www.reddit.com/r/Destiny/comments/aatxuz/there_is_not_a_single_person_apparently/ecuzbl8/) (Reddit)
 - [23 charts and maps that show the world is getting much, much better](https://www.vox.com/2014/11/24/7272929/global-poverty-health-crime-literacy-good-news?fbclid=IwAR1efpeMrMbp87sfLTP8X18Qh51zlO1uZQ4qi6CS0nXRWYZ5cmMt9DavR9k) (Vox)
+  - [Chartr: The World Is Getting Better](https://www.chartr.co/deep-dives/2019/9/19/the-world-is-getting-better)
 - [Matthew Ader - No, Jeff Bezos Can't End World Hunger](https://exponentsmag.org/2020/07/18/no-jeff-bezos-cant-end-world-hunger/)
 - [Homelessness in Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) (Wikipedia)
   - [Housing First policy](https://en.wikipedia.org/wiki/Housing_First) (Wikipedia)
@@ -152,6 +160,7 @@ sidebar: auto
   - [Article in top comment: Medicare for All Would Save $450 Billion Annually While Preventing 68,000 Deaths, New Study Shows](https://www.newsweek.com/medicare-all-would-save-450-billion-annually-while-preventing-68000-deaths-new-study-shows-1487862) (Newsweek)
 - [/r/badeconomics: A Critique of The Lancet's Medicare For All Study](https://www.reddit.com/r/badeconomics/comments/f4uqku/a_critique_of_the_lancets_medicare_for_all_study/) (Reddit)
 - [Last Week Tonight: Medicare For All](https://youtu.be/7Z2XRg3dy9k) (YouTube)
+- [Jacob Keegan: How I would pay for Medicare-For-All](https://medium.com/@JacobMKeegan/how-i-would-pay-for-medicare-for-all-8d1774d5eeab) (Medium)
 
 ### Land Value Tax
 - [Various resources and arguments (responses to @SocksxMC's tweet)](https://twitter.com/SocksxMC/status/1276953664566034433) (Twitter)
@@ -173,12 +182,18 @@ sidebar: auto
   - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
 
-### Trade Agreements
+### Social Democracy
+- [As a social democrat, what do you dislike in the Nordic model and believe could be different or made better?](https://www.reddit.com/r/SocialDemocracy/comments/if6rc8/as_a_social_democrat_what_do_you_dislike_in_the/) (Reddit /r/socialdemocracy)
+
+#### Trade Agreements
 - [Noam Chomsky: Every Word in the Phrase 'Free Trade Agreement' Is False](https://www.truthdig.com/articles/noam-chomsky-every-word-in-the-phrase-free-trade-agreement-is-false/) (Truthdig)
 - [Free Trade](https://rationalwiki.org/wiki/Free_trade) (RationalWiki)
 - [Trans-Pacific Partnership](https://rationalwiki.org/wiki/Trans-Pacific_Partnership) (RationalWiki)
 - [North American Free Trade Agreement](https://rationalwiki.org/wiki/North_American_Free_Trade_Agreement) (RationalWiki)
 - [Destiny and Kyle Kulinski arguing about the TPP](https://www.youtube.com/watch?v=GlxN1Btua00) (don't remember the timestamp)
+
+### Unions
+- [Studies and Sources on the Benefits of Labor Unions](https://www.reddit.com/r/SocialDemocracy/comments/if6uen/studies_and_sources_on_the_benefits_of_labor/) (Reddit /r/socialdemocracy)
 
 ### Value Added Tax
 - [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
@@ -239,6 +254,7 @@ sidebar: auto
 
 ### Iraq War and 9/11
 - [Exchange between Sam Harris and Noam Chomsky](https://samharris.org/the-limits-of-discourse/)
+- [Dylan Burns vs a neo-con on the Iraq War (3-hour debate hosted by Bastiat)](https://youtu.be/U5ag-PkR4HY) (YouTube)
 
 ### USSR
 - [Stalin apologetics](https://rationalwiki.org/wiki/Stalin_apologetics) (RationalWiki)
@@ -260,6 +276,10 @@ sidebar: auto
 
 ### Knowledge
 - [Sean Carroll - Quantum Field Theory and the Limits of Knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/)
+
+## Methods of Activism
+- [David Shor's tweet that got him fired, on the inefficiency of violent riots](https://twitter.com/davidshor/status/1265998625836019712) (Twitter)
+  - [The real stakes in the David Shor saga](https://www.vox.com/2020/7/29/21340308/david-shor-omar-wasow-speech) (Vox)
 
 ## Neuroscience and Psychology
 - [@spiantado: Here's why IQ is bullshit.](https://threadreaderapp.com/thread/1275783954411347968.html) (Twitter)
@@ -313,12 +333,16 @@ sidebar: auto
 - [Yale University - Power and Politics in Today's World](https://www.youtube.com/playlist?list=PLh9mgdi4rNeyViG2ar68jkgEi4y6doNZy)
 - [Wireless Philosophy: Introduction to Political Philosophy](https://www.youtube.com/playlist?list=PLtKNX4SfKpzVzlrbkay2UgewNCVif3K24)
 - [So You Want To Talk About: How a Bill Becomes a Law](https://www.instagram.com/p/B-M0xy-HN3M/#)
+- [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html) (Intelligencer)
+  - "...how the Democratic Party really operates, why the coming decade could be a great one for the American right, how protests shape public opinion, what the left gets wrong about electoral politics, and whether Donald Trump will be reelected, among other things."
+- [Vaush: The ULTIMATE Praxis Guide - What You Can Do to Make a Difference](https://youtu.be/hAJwh4L9D_g) (YouTube)
 
 ### Polling
 - [PSTBlog - One Election Visualization to Rule Them All](https://pstblog.com/2019/10/11/onevis)
 
 ### Building a Better Democratic Party
 - [Beyond Trump: A Theory of Political Transition](https://plantogovern.us/beyond-trump/)
+- [Alexandria Ocasio-Cortez and the future of the left](https://www.vox.com/2020/8/21/21395848/alexandria-ocasio-cortez-future-of-left-aoc-bernie-dsa-working-families-party) (Vox)
 
 ### US Corruption
 - [OpenSecrets.org - Ten Things Every Voter Should Know About Money in Politics](https://www.opensecrets.org/resources/dollarocracy/)
@@ -358,6 +382,8 @@ sidebar: auto
 - [Julia Galef: A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8) (YouTube)
 - [Wireless Philosophy: Introduction to Critical Thinking](https://www.youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk)
 - [Most scientific studies are wrong, but that doesn’t mean what you think it means](https://thelogicofscience.com/2016/05/10/most-scientific-studies-are-wrong-but-that-doesnt-mean-what-you-think-it-means/) (The Logic of Science)
+- [What does statistically significant mean?](https://thelogicofscience.com/2020/08/14/what-does-statistically-significant-mean/) (The Logic of Science)
+
 
 ## State of the World
 - [2030 UN Sustainable Development Goals](https://sdgs.un.org/goals)

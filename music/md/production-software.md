@@ -1,5 +1,10 @@
 # Production Software
 
+## Interesting DAWs
+- [Ocean - Collaboratively make beats with friends](https://www.oceanwaves.io/?ref=producthunt)
+- [Non - Lightweight DAW for Raspberry Pi](https://non.tuxfamily.org/)
+- [Radium - A graphical music editor. A next generation tracker.](http://users.notam02.no/~kjetism/radium/)
+
 ## Plugins (VST)
 
 ### Deals
@@ -14,6 +19,7 @@
 - [Bedroom Producers Blog - Free VSTs](https://bedroomproducersblog.com/free-vst-plugins/)
 - [Red Means Recording - Free VSTs](https://www.youtube.com/playlist?list=PLcaEIjiwaCmQSnKgbfykDkqRDq7Y2tl1j)
 - [White Sea Studio - All the plugins I actually use](https://www.youtube.com/watch?v=kNMCzKz3cQg)
+- [/u/2njoy3: Huge Google sheet of free VSTs](https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/edit?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8#gid=0)
 - [9 Step Sequencers](https://theproaudiofiles.com/step-sequencers/)
 
 ## Plugins/Tools/Presets (DAW Specific)

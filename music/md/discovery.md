@@ -39,6 +39,7 @@
 
 ### All Time/Other
 - [RateYourMusic All Time chart](https://rateyourmusic.com/customchart?page=1&chart_type=top&type=album&year=alltime&genre_include=1&include_child_genres=1&genres=&include_child_genres_chk=1&include=both&origin_countries=&limit=none&countries=)
+  - [ARTV Video](https://youtu.be/Rm3i7xaV8yk)
 - [RateYourMusic All Time lists](https://rateyourmusic.com/list_classifier/All%2dtime/)
 - [Loudwire - Top 25 Extreme Metal Albums](https://loudwire.com/top-extreme-metal-albums/)
 - [Shreddit's Favorite Albums 2001-2015](https://www.reddit.com/r/Metal/comments/4f1tmo/shreddits_top_15_favorite_albums_20012015/)

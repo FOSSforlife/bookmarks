@@ -29,6 +29,22 @@ sidebar: auto
 - [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
 - [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
 - [Biden v Trump infographic by Dario Rahim](https://twitter.com/DarioRahim/status/1296609077590728704)
+- So You Want To Talk About...
+  - [Biden's 2020 Platform](https://www.instagram.com/p/CDUAUbFnOGd/#)
+  - [Corruption of Trump Administration](https://www.instagram.com/p/CERfACfnT9K/)
+  - [Donald Trump](https://www.instagram.com/p/B8erjmHptP8/#)
+  - [Draining The Swamp](https://www.instagram.com/p/B8erjmHptP8/#)
+  - [Flipping The Senate](https://www.instagram.com/p/CCygv7RHF7_/#)
+  - [The Importance of Voting](https://www.instagram.com/p/CDowaSHHdKK/#)
+  - [Joe Biden](https://www.instagram.com/p/B9WrEG4nR_e#)
+  - [Lies You Were Told About Trump](https://www.instagram.com/p/CEHjfZenaM3/?utm_source=ig_web_copy_link)
+  - [Mail-In Voting](https://www.instagram.com/p/CDRa6m1nSx2/#)
+  - [The Biden/Sanders Unity Plan](https://www.instagram.com/p/CCtasnknu-n/#)
+  - [Trump vs Biden: Issues](https://www.instagram.com/p/CCmQRDpHII2/#)
+  - [Trump's 2020 Platform](https://www.instagram.com/p/CC1a12mnf_p/#)
+  - [Trump's First Term Failures](https://www.instagram.com/p/CDCkCYuHO8y/#)
+  - [Trumpism](https://www.instagram.com/p/B-Fr7uonAwM/#)
+  - [Voting Trump Out](https://www.instagram.com/p/CCwG4MOnhzk/#)
 - [Rebecca Watson - Is it Your Moral Imperative to Vote for Joe Biden?](https://www.youtube.com/watch?v=Fj2u4OWLzEY) (YouTube)
 - [List of reasons to vote against Trump](https://www.reddit.com/r/politics/comments/fgowze/megathread_joe_biden_wins_ms_mo_mi_democratic/fk5x3bv/) (Reddit: /u/CaptainNoBoat)
 - [List of progressive policies that Biden supports](https://www.reddit.com/r/neoliberal/comments/folv0u/discussion_thread/flhws76/) (Reddit: /u/ILikeTalkingToMyself)
@@ -76,13 +92,15 @@ sidebar: auto
 - [Jacobson v. Massachusetts, (1905 Supreme Court case defending mandatory vaccination in the name of public health and safety)](https://supreme.justia.com/cases/federal/us/197/11/)
   - If this was ruled Constitutional, certainly mask enforcements are.
 
-## Climate
+## Climate/Energy
 - [Kurzgesagt - Who Is Responsible For Climate Change? Who Needs To Fix It?](https://www.youtube.com/watch?v=ipVxxxqwBQw) (YouTube)
 - [The Story of Stuff](https://www.storyofstuff.org/movies/story-of-stuff/) (Powerful mini-doc about consumerism and waste)
   - [The Story of Electronics](https://www.storyofstuff.org/movies/story-of-electronics/)
 - [Is climate change an “existential threat” — or just a catastrophic one?](https://www.vox.com/future-perfect/2019/6/13/18660548/climate-change-human-civilization-existential-risk) (Vox)
 - [Do electric cars emit less CO2?](https://www.beaeconomics.com/be096/) (Beautiful Economics)
 - [Ezra Klein: How to decarbonize America — and create 25 million jobs](https://www.vox.com/podcasts/2020/8/27/21403184/saul-griffith-ezra-klein-show-solve-climate-change-green-new-deal-rewiring-america) (Vox)
+- [/r/Destiny: Why are leftists against nuclear energy when it comes to fighting climate change?](https://www.reddit.com/r/Destiny/comments/g7ujkz/why_are_leftists_against_nuclear_energy_when_it/) (Reddit)
+- [Against Unreason - Nuclear power: Safe, clean, abundant energy to fight climate change](https://againstunreason.wordpress.com/2020/05/04/nuclear-power-safe-clean-abundant-energy-to-fight-climate-change/)
 
 ## Economics
 
@@ -198,9 +216,6 @@ sidebar: auto
 ### Value Added Tax
 - [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
 
-## Energy
-- [/r/Destiny: Why are leftists against nuclear energy when it comes to fighting climate change?](https://www.reddit.com/r/Destiny/comments/g7ujkz/why_are_leftists_against_nuclear_energy_when_it/) (Reddit)
-- [Against Unreason - Nuclear power: Safe, clean, abundant energy to fight climate change](https://againstunreason.wordpress.com/2020/05/04/nuclear-power-safe-clean-abundant-energy-to-fight-climate-change/)
 
 ## Ethics
 
@@ -277,10 +292,6 @@ sidebar: auto
 ### Knowledge
 - [Sean Carroll - Quantum Field Theory and the Limits of Knowledge](http://www.preposterousuniverse.com/blog/2015/04/21/quantum-field-theory-and-the-limits-of-knowledge/)
 
-## Methods of Activism
-- [David Shor's tweet that got him fired, on the inefficiency of violent riots](https://twitter.com/davidshor/status/1265998625836019712) (Twitter)
-  - [The real stakes in the David Shor saga](https://www.vox.com/2020/7/29/21340308/david-shor-omar-wasow-speech) (Vox)
-
 ## Neuroscience and Psychology
 - [@spiantado: Here's why IQ is bullshit.](https://threadreaderapp.com/thread/1275783954411347968.html) (Twitter)
 - [Peter Joseph on IQ](https://www.facebook.com/peterjosephofficial/posts/1621535341216948) (Facebook)
@@ -335,14 +346,19 @@ sidebar: auto
 - [So You Want To Talk About: How a Bill Becomes a Law](https://www.instagram.com/p/B-M0xy-HN3M/#)
 - [David Shor's Unified Theory of American Politics](https://nymag.com/intelligencer/2020/07/david-shor-cancel-culture-2020-election-theory-polls.html) (Intelligencer)
   - "...how the Democratic Party really operates, why the coming decade could be a great one for the American right, how protests shape public opinion, what the left gets wrong about electoral politics, and whether Donald Trump will be reelected, among other things."
-- [Vaush: The ULTIMATE Praxis Guide - What You Can Do to Make a Difference](https://youtu.be/hAJwh4L9D_g) (YouTube)
 
-### Polling
-- [PSTBlog - One Election Visualization to Rule Them All](https://pstblog.com/2019/10/11/onevis)
+### Activism
+- [Vaush: The ULTIMATE Praxis Guide - What You Can Do to Make a Difference](https://youtu.be/hAJwh4L9D_g) (YouTube)
+- [David Shor's tweet that got him fired, on the inefficiency of violent riots](https://twitter.com/davidshor/status/1265998625836019712) (Twitter)
+  - [The real stakes in the David Shor saga](https://www.vox.com/2020/7/29/21340308/david-shor-omar-wasow-speech) (Vox)
+- [So You Want To Talk About: Getting Involved In Politics](https://www.instagram.com/p/CDHVDl1nqT5/#)
 
 ### Building a Better Democratic Party
 - [Beyond Trump: A Theory of Political Transition](https://plantogovern.us/beyond-trump/)
 - [Alexandria Ocasio-Cortez and the future of the left](https://www.vox.com/2020/8/21/21395848/alexandria-ocasio-cortez-future-of-left-aoc-bernie-dsa-working-families-party) (Vox)
+
+### Polling
+- [PSTBlog - One Election Visualization to Rule Them All](https://pstblog.com/2019/10/11/onevis)
 
 ### US Corruption
 - [OpenSecrets.org - Ten Things Every Voter Should Know About Money in Politics](https://www.opensecrets.org/resources/dollarocracy/)

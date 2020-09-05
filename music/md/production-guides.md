@@ -171,6 +171,7 @@
 - [Tutorial: Sequencing With Patterns](http://doc.sccode.org/Tutorials/Getting-Started/16-Sequencing-with-Patterns.html)
 - [Awesome SuperCollider](https://github.com/madskjeldgaard/awesome-supercollider) (GitHub)
 - [Official Tutorial](https://github.com/supercollider/learn/blob/master/src/beginner/src/SUMMARY.md) (GitHub)
+- [Live Coding Pop Music with Python and SuperCollider](https://youtu.be/xXNB1BbKY8A) (YouTube)
 
 ## Songwriting
 - [Audio Ordeal: Song arrangement infographic](https://www.reddit.com/r/ableton/comments/9g1qjh/day_7_week_of_infographics_achieved_i_know_some/) (Reddit)

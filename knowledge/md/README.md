@@ -19,46 +19,72 @@ sidebar: auto
 - [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
   - [Spreadsheet of posts by topic](https://docs.google.com/spreadsheets/d/13MeqT1KVPRGzB23jRxQv6uTHqq1fmq-V7b1yYiQdTOI/edit#gid=2010041126)
 - [List of chart/infographic websites](https://www.beaeconomics.com/links/)
+- [My Favorite Articles](https://raindrop.io/collection/13222355)
+- [Twitter suggested lists](https://twitter.com/i/lists/suggested)
 
 ## 2020 Election
+
+### Ballot Resources
+- [Ballotpedia - Sample Ballot Lookup](https://ballotpedia.org/Sample_Ballot_Lookup)
 - [Ballotpedia - 2020 Election](https://ballotpedia.org/Elections) - Presidential, Congressional, and local election candidate info.
-  - [Sample ballot by zip code](https://ballotpedia.org/Sample_Ballot_Lookup)
-  - [VoteSmart.org](https://justfacts.votesmart.org/) - similar site
-  - [Vote 411](https://www.vote411.org/ballot)
-  - [BallotReady](https://www.ballotready.org/dashboard) - might be the one I end up using the most, although my ballot is not yet available
-- [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
-- [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
-- [Biden v Trump infographic by Dario Rahim](https://twitter.com/DarioRahim/status/1296609077590728704)
+- [Facebook Town Hall](https://www.facebook.com/townhall/)
+- [BallotReady](https://www.ballotready.org/dashboard) - might be the one I end up using the most, although my ballot is not yet available
+- [VoteSmart.org](https://justfacts.votesmart.org/) - similar site
+- [Vote 411](https://www.vote411.org/ballot)
+
+### Polls/Forecasts
+- [FiveThirtyEight](https://projects.fivethirtyeight.com/2020-election-forecast/)
+- [JHKForecasts](https://jhkforecasts.com/)
+- [The Economist](https://projects.economist.com/us-2020-forecast/president)
+
+### Down-Ballot
+- [/u/fidelitypdx's opinion on Ted Wheeler and the political state of Portland](https://www.reddit.com/r/Portland/comments/c4rv49/is_ted_wheeler_a_good_mayor/erycwyv?utm_source=share&utm_medium=web2x&context=3) (Reddit)
+
+### Biden
 - So You Want To Talk About...
+  - [The Biden/Sanders Unity Plan](https://www.instagram.com/p/CCtasnknu-n/#)
   - [Biden's 2020 Platform](https://www.instagram.com/p/CDUAUbFnOGd/#)
+  - [Joe Biden](https://www.instagram.com/p/B9WrEG4nR_e#)
+  - [Trump vs Biden: Issues](https://www.instagram.com/p/CCmQRDpHII2/#)
+  - [Joe Biden Environmental Scorecard](https://scorecard.lcv.org/moc/joe-biden) (link may be broken)
+- [Biden v Trump infographic by Dario Rahim](https://twitter.com/DarioRahim/status/1296609077590728704)
+- [ISideWith.com - Joe Biden's stances](https://www.isidewith.com/candidates/joe-biden-2/policies)
+- [Speech condemning looting and rioting](https://youtu.be/-Fdw-7vVbv0)
+- [List of progressive policies that Biden supports](https://www.reddit.com/r/neoliberal/comments/folv0u/discussion_thread/flhws76/) (Reddit: /u/ILikeTalkingToMyself)
+  - This was posted in March 2020, and Biden's campaign has become more progressive since then.
+  - [@SocDoneLeft thread featuring lots of policies from the official website](https://twitter.com/SocDoneLeft/status/1300498955046916096) (Twitter)
+  - [David Pakman: Biden's Climate Change Proposal Is Solid](https://www.youtube.com/watch?v=DG5ZAbBGWms) (YouTube)
+  - [David Pakman: Joe Biden's Tax Plan Could Be Most Progressive in History](https://www.youtube.com/watch?v=BBYlKpNcgbg) (YouTube)
+- [Greenpeace 2020 Climate Scorecards](https://www.greenpeace.org/usa/climate2020/)
+- [Rebecca Watson - Is it Your Moral Imperative to Vote for Joe Biden?](https://www.youtube.com/watch?v=Fj2u4OWLzEY) (YouTube)
+
+### Trump
+- So You Want To Talk About...
   - [Corruption of Trump Administration](https://www.instagram.com/p/CERfACfnT9K/)
   - [Donald Trump](https://www.instagram.com/p/B8erjmHptP8/#)
   - [Draining The Swamp](https://www.instagram.com/p/B8erjmHptP8/#)
-  - [Flipping The Senate](https://www.instagram.com/p/CCygv7RHF7_/#)
-  - [The Importance of Voting](https://www.instagram.com/p/CDowaSHHdKK/#)
-  - [Joe Biden](https://www.instagram.com/p/B9WrEG4nR_e#)
   - [Lies You Were Told About Trump](https://www.instagram.com/p/CEHjfZenaM3/?utm_source=ig_web_copy_link)
-  - [Mail-In Voting](https://www.instagram.com/p/CDRa6m1nSx2/#)
-  - [The Biden/Sanders Unity Plan](https://www.instagram.com/p/CCtasnknu-n/#)
-  - [Trump vs Biden: Issues](https://www.instagram.com/p/CCmQRDpHII2/#)
   - [Trump's 2020 Platform](https://www.instagram.com/p/CC1a12mnf_p/#)
   - [Trump's First Term Failures](https://www.instagram.com/p/CDCkCYuHO8y/#)
   - [Trumpism](https://www.instagram.com/p/B-Fr7uonAwM/#)
   - [Voting Trump Out](https://www.instagram.com/p/CCwG4MOnhzk/#)
-- [Rebecca Watson - Is it Your Moral Imperative to Vote for Joe Biden?](https://www.youtube.com/watch?v=Fj2u4OWLzEY) (YouTube)
 - [List of reasons to vote against Trump](https://www.reddit.com/r/politics/comments/fgowze/megathread_joe_biden_wins_ms_mo_mi_democratic/fk5x3bv/) (Reddit: /u/CaptainNoBoat)
-- [List of progressive policies that Biden supports](https://www.reddit.com/r/neoliberal/comments/folv0u/discussion_thread/flhws76/) (Reddit: /u/ILikeTalkingToMyself)
-  - This was posted in March 2020, and Biden's campaign has become more progressive since then.
-  - [David Pakman: Biden's Climate Change Proposal Is Solid](https://www.youtube.com/watch?v=DG5ZAbBGWms) (YouTube)
-  - [David Pakman: Joe Biden's Tax Plan Could Be Most Progressive in History](https://www.youtube.com/watch?v=BBYlKpNcgbg) (YouTube)
-- [So You Want To Talk About: Biden's 2020 Platform](https://www.instagram.com/p/CDUAUbFnOGd/) (Instagram)
 - [Veracity of statements by Donald Trump](https://en.wikipedia.org/wiki/Veracity_of_statements_by_Donald_Trump) (Wikipedia)
-- [Joe Biden Environmental Scorecard](https://scorecard.lcv.org/moc/joe-biden) (link may be broken)
-- [Greenpeace 2020 Climate Scorecards](https://www.greenpeace.org/usa/climate2020/)
 - [Commonly pasted list of Trump's positive accomplishments](https://www.reddit.com/r/politicsdebate/comments/f1jl2r/our_potus_is_on_fire/) (Reddit; be sure to read the comment below)
   - Response: ["It should be noted that the following points that you made were initiatives 'signed' by Trump, that had little to do with him, his values, or virtually any effort on his part."](https://www.reddit.com/r/politicsdebate/comments/f1jl2r/our_potus_is_on_fire/fhe8ne0/)
   - [A similar list relating to Obama's presidency](http://whatthefuckhasobamadonesofar.com/) (view in [JSON](https://pastebin.com/NV1Lwk6Z))
 - [/r/EnoughTrumpSpam final response megathread from 2016](https://www.reddit.com/r/EnoughTrumpSpam/comments/4uabwt/final_response_megathread/) (Reddit)
+- [ISideWith.com - Donald Trump's stances](https://www.isidewith.com/candidates/donald-trump/policies)
+
+### Other Info
+- [Vote.org](https://vote.org) (registration, polling places, deadlines, etc)
+- [Vote.gov](https://vote.gov) (registration)
+- [Want to vote in 2020? Do it early.](https://www.vox.com/2020-presidential-election/2020/8/27/21369269/vote-early-guide-mail-postal-service-ballots) (Vox)
+- So You Want To Talk About...
+  - [The Importance of Voting](https://www.instagram.com/p/CDowaSHHdKK/#)
+  - [Flipping The Senate](https://www.instagram.com/p/CCygv7RHF7_/#)
+  - [Mail-In Voting](https://www.instagram.com/p/CDRa6m1nSx2/#)
+
 
 ## Alt-Right
 - [Destiny and ContraPoints on how GamerGate led to Trump](https://youtu.be/mzfOYAavFD0?t=25m11s) (YouTube; skip to 25:11)
@@ -70,7 +96,7 @@ sidebar: auto
 
 ### Immigration
 - [Destiny vs Nick Fuentes debate research doc](https://docs.google.com/document/d/1Xo_cVn-tMwr2ocnPmiUhbuSnILKXdLCiDHEjlUKI2Z8)
-- [Debunking Denialism: How Anti-Immigration Activists Misuse Rape Statistics](https://debunkingdenialism.com/2015/12/12/how-anti-immigration-activists-misuse-rape-statistics/?fbclid=IwAR3EN9MVLwyGNAZyvMGxpuNMEfaTYvgOZASu6p-EE3_5G3Lp1RA4BVX-aHA) - really good article!
+- [How Anti-Immigration Activists Misuse Rape Statistics](https://debunkingdenialism.com/2015/12/12/how-anti-immigration-activists-misuse-rape-statistics/?fbclid=IwAR3EN9MVLwyGNAZyvMGxpuNMEfaTYvgOZASu6p-EE3_5G3Lp1RA4BVX-aHA) - really good article by Debunking Denialism!
 - [/r/AskFeminists: Immigration and Crime](https://www.reddit.com/r/AskFeminists/comments/512vvt/immigration_and_crime/)
 - [/r/AskFeminists basic responses to racist claim that Sweden is the "rape capital of Europe"](https://www.reddit.com/r/AskFeminists/comments/cjw416/how_can_sweden_be_held_as_a_profeminist_country/)
 - [Rape in Sweden](https://en.wikipedia.org/wiki/Rape_in_Sweden) (Wikipedia)
@@ -78,6 +104,7 @@ sidebar: auto
 ## COVID-19
 - [Case/Death Count, Updated Regularly](https://www.worldometers.info/coronavirus/)
 - [FactCheck.org coronavirus coverage](https://www.factcheck.org/a-guide-to-our-coronavirus-coverage/)
+- [FactCheck.org FAQ on coronavirus vaccines](https://www.factcheck.org/2020/09/qa-on-coronavirus-vaccines/?fbclid=IwAR1ZswwopCdVugBFAaK7fcFln_08kupGCprnzVm5vF3Tzu_Hde6O_x-ZtWo)
 - Dataset lists: [1](https://github.com/soroushchehresa/awesome-coronavirus) [2](https://github.com/bigheiniu/awesome-coronavirus19-dataset) [3](https://github.com/fnielsen/awesome-covid-19-resources) [4](https://github.com/datasets/ovid-19)
 - [NYTimes datasets (CSV files)](https://github.com/nytimes/covid-19-data)
 - [/r/COVID19_data](https://www.reddit.com/r/COVID19_data/)
@@ -93,6 +120,8 @@ sidebar: auto
   - If this was ruled Constitutional, certainly mask enforcements are.
 
 ## Climate/Energy
+[Latest Forbes Energy Articles](https://www.forbes.com/energy/#52645db1e33c)
+
 - [Kurzgesagt - Who Is Responsible For Climate Change? Who Needs To Fix It?](https://www.youtube.com/watch?v=ipVxxxqwBQw) (YouTube)
 - [The Story of Stuff](https://www.storyofstuff.org/movies/story-of-stuff/) (Powerful mini-doc about consumerism and waste)
   - [The Story of Electronics](https://www.storyofstuff.org/movies/story-of-electronics/)
@@ -101,6 +130,7 @@ sidebar: auto
 - [Ezra Klein: How to decarbonize America — and create 25 million jobs](https://www.vox.com/podcasts/2020/8/27/21403184/saul-griffith-ezra-klein-show-solve-climate-change-green-new-deal-rewiring-america) (Vox)
 - [/r/Destiny: Why are leftists against nuclear energy when it comes to fighting climate change?](https://www.reddit.com/r/Destiny/comments/g7ujkz/why_are_leftists_against_nuclear_energy_when_it/) (Reddit)
 - [Against Unreason - Nuclear power: Safe, clean, abundant energy to fight climate change](https://againstunreason.wordpress.com/2020/05/04/nuclear-power-safe-clean-abundant-energy-to-fight-climate-change/)
+- [All That Performative Environmentalism Adds Up](https://www.theatlantic.com/ideas/archive/2020/08/your-tote-bag-can-make-difference/615817/?utm_source=feed) (The Atlantic)
 
 ## Economics
 
@@ -113,14 +143,14 @@ sidebar: auto
 ### Analyzing the Field of Study
 - [Heterodox economics (esp. section "Rejection of neoclassical economics")](https://en.wikipedia.org/wiki/Heterodox_economics) (Wikipedia)
 - [Does Economics Breed Republicans?](https://www.theatlantic.com/business/archive/2010/06/does-economics-breed-republicans/57846/) (The Atlantic)
-- ["Liberalism at Large"](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large) (podcast episode critiquing The Economist)
+- ["Liberalism at Large"](https://player.fm/series/london-review-bookshop-podcast/alexander-zevin-and-tariq-ali-liberalism-at-large) (podcast episode critiquing The Economist and neoliberalism)
 - [Culture in Decline - Economics 101](https://www.youtube.com/watch?v=KEC0GT_8l_I)
+- [The Neoliberal Optmism: how "those in power cook the books and spin data to make their case for maintaining the status quo"](https://soundcloud.com/citationsneeded/episode-58-the-neoliberal-optimism-industry) (podcast)
 
 ### Anti-Capitalism
 - [Socialism FAQ](https://github.com/dessalines/essays/blob/master/socialism_faq.md) (GitHub)
   - [Repo homepage (tons of essays/resources)](https://github.com/dessalines/essays)
 - [@ArashKolahi: Market capitalism is inherently undemocratic and therefore environmentally destructive (proven using economic models)](https://twitter.com/ArashKolahi/status/1232782537174347776)
-- [The Neoliberal Optmism: how "those in power cook the books and spin data to make their case for maintaining the status quo"](https://soundcloud.com/citationsneeded/episode-58-the-neoliberal-optimism-industry) (podcast)
 - [Al Jazeera - Exposing the great 'poverty reduction' lie](https://www.aljazeera.com/indepth/opinion/2014/08/exposing-great-poverty-reductio-201481211590729809.html?fbclid=IwAR0LtigHHO8G-kgiD1kSjY749wTX5kIZQZOqUlXcd15BbUWkMurDQg3nRkY)
 - [Reddit comment about how current investments are economically ineffecient](https://www.reddit.com/r/Libertarian/comments/8xrlpi/elon_musk_is_the_best/e25eckw/)
 - ["Anti-Communist Myths Debunked" Google doc shared by tankies](https://docs.google.com/document/d/1Gxwhh-vdeB--47HM-20cEVRC9eAMhrapbNf0Sk8VSOs) (judging by first glance, seems filled with misinformation and historical revisionism. Could be useful for understanding the tankie mindset if nothing else)
@@ -128,6 +158,7 @@ sidebar: auto
 - [Some cool blog posts about money and RBE stuff](https://github.com/mhingston/Netonomy) (GitHub)
 - [Anarchist FAQ: Myths of capitalist economics](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq-04-17)
 - [Democracy in the workplace can actually be more effective than managerialism, if not equally effective.](https://www.reddit.com/r/CapitalismVSocialism/comments/ighvyf/democracy_in_the_workplace_can_actually_be_more/) (Reddit)
+- [/r/philosophy thread about maximum wages and salaries](https://www.reddit.com/r/philosophy/comments/bshqhu/setting_a_maximum_wage_for_ceos_would_be_good_for/) (Reddit)
 
 #### Has Socialism Been Tried?
 - [RationalWiki - Is communism at all workable?](https://rationalwiki.org/wiki/Communism#Is_communism_at_all_workable.3F)
@@ -147,12 +178,16 @@ sidebar: auto
 - [The Economist: Dismembering Big Tech](https://www.reddit.com/r/neoliberal/comments/do7m2u/dismembering_big_tech/) (Article pasted in Reddit comment)
 - [PPI: 10 Myths About Big Tech & Antitrust](https://medium.com/@progressivepolicyinstitute/10-things-you-need-to-know-about-tech-and-antitrust-6c077bf71dc5)
 - [How Big Tech Makes Their Billions (revenue breakdown)](https://www.visualcapitalist.com/how-big-tech-makes-their-billions-2020/) (Visual Capitalist)
+- [/u/FiveOhFive91: Reasons to dislike Elon Musk](https://www.reddit.com/r/brooklynninenine/comments/iiuekl/making_a_meme_of_every_episode_of_brooklyn/g39ufnm/?context=3) (Reddit)
 
 ### Calculation Problem
 - [Economic calculation problem](https://en.wikipedia.org/wiki/Economic_calculation_problem) (Wikipedia)
 - [/r/CapitalismVSocialism discussion](https://www.reddit.com/r/CapitalismVSocialism/comments/7lkh25/opinion_sociopathy_and_selfishness_are_important/drn5awd/)
 
 ### Ending Poverty
+- My favorite article on the subject: [Dylan Matthews: Bill Gates tweeted out a chart and sparked a huge debate about global poverty](https://www.vox.com/future-perfect/2019/2/12/18215534/bill-gates-global-poverty-chart) (Vox)
+  - Related: [Jason Hickel: Bill Gates says poverty is decreasing. He couldn’t be more wrong](https://www.theguardian.com/commentisfree/2019/jan/29/bill-gates-davos-global-poverty-infographic-neoliberal) (The Guardian)
+- [Extreme poverty](https://en.wikipedia.org/wiki/Extreme_poverty) (Wikipedia)
 - [/r/economics on homelessness in San Francisco](https://www.reddit.com/r/Economics/comments/dt90c6/homelessness_surges_in_san_francisco_while_techs/)
 - [Our World in Data: Food Supply](https://ourworldindata.org/food-supply)
 - [Addressing the claim that "no one is poor simply because somebody else is wealthy"](https://www.reddit.com/r/Destiny/comments/aatxuz/there_is_not_a_single_person_apparently/ecuzbl8/) (Reddit)
@@ -162,6 +197,7 @@ sidebar: auto
 - [Homelessness in Finland](https://en.wikipedia.org/wiki/Homelessness_in_Finland) (Wikipedia)
   - [Housing First policy](https://en.wikipedia.org/wiki/Housing_First) (Wikipedia)
 - [@AlecStapp: Differences between neoliberalism and social democracy](https://threadreaderapp.com/thread/1261023890823938048.html) (Twitter)
+- [Central City Concern](https://www.centralcityconcern.org/ccc)
 
 #### Universal Basic Income
 - [/r/economics wiki page (a neutral perspective)](https://www.reddit.com/r/Economics/wiki/faq_basicincome)
@@ -193,10 +229,10 @@ sidebar: auto
 #### Pro
 - [SSIR - 12 Common Criticisms of Philanthropy—and Some Answers](https://ssir.org/articles/entry/12_common_criticisms_of_philanthropyand_some_answers)
 - [Against Against Billionaire Philanthropy](https://slatestarcodex.com/2019/07/29/against-against-billionaire-philanthropy/) (response to one of the articles below, good read)
-    - [Reddit discussion (including respnoses from Reich and others)](https://www.reddit.com/r/slatestarcodex/comments/cjkqnd/against_against_billionaire_philanthropy/)
+  - [Reddit discussion (including respnoses from Reich and others)](https://www.reddit.com/r/slatestarcodex/comments/cjkqnd/against_against_billionaire_philanthropy/)
 
 #### Against
-- [Vox - The case against billionaire philanthropy](https://www.reddit.com/r/slatestarcodex/comments/cjkqnd/against_against_billionaire_philanthropy/) (interview with Rob Reich)
+- [Vox - The case against billionaire philanthropy](https://www.vox.com/future-perfect/2018/12/17/18141181/foundation-charity-deduction-democracy-rob-reich) (interview with Rob Reich)
   - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
 
@@ -303,6 +339,7 @@ sidebar: auto
   - [Racialism](https://rationalwiki.org/wiki/Racialism) (RationalWiki)
   - [Shaun's 2 1/2-hour video on The Bell Curve](https://www.youtube.com/watch?v=UBc7qBS1Ujo) (YouTube)
   - [ForeverJameses hour-long video on The Bell Curve](https://www.youtube.com/watch?v=UBc7qBS1Ujo) (YouTube)
+- [Neuralink: Elon Musk is one step closer to connecting a computer to your brain](https://www.vox.com/recode/2020/8/28/21404802/elon-musk-neuralink-brain-machine-interface-research) (Vox)
 
 ## Philosophy (General)
 - [/r/philosophy FAQ](https://www.reddit.com/r/philosophy/wiki/faq)
@@ -324,6 +361,7 @@ sidebar: auto
     - [Police Brutality](https://www.instagram.com/p/CAvkkj_ncLJ/#)
     - [The 1994 Crime Bill](https://www.instagram.com/p/CBGaij6HbzW/#)
     - [The War On Drugs](https://www.instagram.com/p/CBVWiNknYJj/#)
+  - [Portland Police Say They're Needed to Prevent Gun Violence. Experts Disagree.](https://www.portlandmercury.com/blogtown/2020/08/27/28773429/portland-police-say-theyre-needed-to-prevent-gun-violence-experts-disagree) (Portland Mercury)
 
 - Arguments for Reform
   - [Campaign Zero](https://joincampaignzero.org)
@@ -352,6 +390,7 @@ sidebar: auto
 - [David Shor's tweet that got him fired, on the inefficiency of violent riots](https://twitter.com/davidshor/status/1265998625836019712) (Twitter)
   - [The real stakes in the David Shor saga](https://www.vox.com/2020/7/29/21340308/david-shor-omar-wasow-speech) (Vox)
 - [So You Want To Talk About: Getting Involved In Politics](https://www.instagram.com/p/CDHVDl1nqT5/#)
+- [German Lopez: How violent protests against police brutality in the ’60s and ’90s changed public opinion](https://www.vox.com/2020/6/2/21275901/police-violence-riots-jacob-blake-kenosha-wisconsin) (Vox)
 
 ### Building a Better Democratic Party
 - [Beyond Trump: A Theory of Political Transition](https://plantogovern.us/beyond-trump/)
@@ -365,6 +404,7 @@ sidebar: auto
 - [@Public_Citizen: A coal lobbyist runs the EPA, A pharma exec runs HHS...](https://twitter.com/Public_Citizen/status/1262055530417270787) (Twitter)
 - [Salon in 2015: The cash donations Hillary simply has no answer for](https://www.salon.com/test2/2015/05/31/the_cash_donations_hillary_simply_has_no_answer_for_partner/)
 - [The Story of Citizens United v. FEC](https://www.storyofstuff.org/story-of-citizens-united-v-fec/)
+- [Polluted By Money - How corporate cash corrupted one of the greenest states in America (Oregon)](https://projects.oregonlive.com/polluted-by-money/)
 - [Vox Media - Hillary Clinton's donors by employer](https://github.com/voxmedia/data-projects/tree/master/vox-elections-2016/clinton_employers) (GitHub)
 
 ### US Public Interest vs. Enacted Policy
@@ -374,6 +414,8 @@ sidebar: auto
 ### Voting
 
 #### Alternatives To Current Structure
+- [Proportional Representation - Elect the House via Delegates](https://wewantdemocracy.org/article/proportionalrepresentation-elect-house-delegates)
+  - [Wikipedia article](https://en.wikipedia.org/wiki/Proportional_representation)
 - [Liquid Democracy](https://en.wikipedia.org/wiki/Liquid_democracy) (Wikipedia)
 - [Ranked Voting](https://en.wikipedia.org/wiki/Ranked_voting) (Wikipedia)
 - [Against Unreason: Is The Electoral College A Good Thing?](https://againstunreason.wordpress.com/2019/07/22/the-political-right-and-the-electoral-college/)
@@ -388,6 +430,10 @@ sidebar: auto
 
 #### Democracy
 - [Against Unreason: Better Than Democracy](https://againstunreason.wordpress.com/2019/12/21/better-than-democracy/)
+- [Democracy's Burden - We should "see our opponent’s political views as an expression of their sincere attempt to think clearly about politics, to act in the office of citizenship according to their best judgment"](https://culturico.com/2020/08/23/democracys-burden/)
+
+#### Technocracy
+- [China’s Overrated Technocrats](https://foreignpolicy.com/2019/07/04/chinas-overrated-technocrats-stem-engineering-xi-jinping/) (Foreign Policy)
 
 ## Rationality
 
@@ -399,6 +445,7 @@ sidebar: auto
 - [Wireless Philosophy: Introduction to Critical Thinking](https://www.youtube.com/playlist?list=PLtKNX4SfKpzX_bhh4LOEWEGy3pkLmFDmk)
 - [Most scientific studies are wrong, but that doesn’t mean what you think it means](https://thelogicofscience.com/2016/05/10/most-scientific-studies-are-wrong-but-that-doesnt-mean-what-you-think-it-means/) (The Logic of Science)
 - [What does statistically significant mean?](https://thelogicofscience.com/2020/08/14/what-does-statistically-significant-mean/) (The Logic of Science)
+- [Noam Chomsky on 9/11 Conspiracy Theories](https://youtu.be/3b_nI6DlZP0) (applies to most conspiracy theories)
 
 
 ## State of the World

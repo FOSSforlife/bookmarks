@@ -51,6 +51,7 @@
 - [Reddit Music Player](https://reddit.musicplayer.io/)
   - [List of music subreddits](https://www.reddit.com/r/Music/wiki/musicsubreddits)
 - [Spotify Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcClrorXLDqST?si=LHQbHOg3TseN7haksA-wDA)
+- [Saved Facebook posts from music sharing groups](https://www.facebook.com/saved/?list_id=2847038285313246&referrer=SAVE_DASHBOARD_NAVIGATION_PANEL)
 - [musicmap.info - Explore genres](https://musicmap.info/#)
   - [Google Music Timeline](http://research.google.com/bigpicture/music/#)
 - [music-map.com - Discover similar artists](https://www.music-map.com/)
@@ -63,6 +64,7 @@
 - [Adult Swim Spotify](https://open.spotify.com/user/or2de24zunn9l5ven8yav60p1?si=DdrIAD2ERImYhMtDK86opQ)
 - [Adult Swim Singles page](https://www.adultswim.com/music/singles/)
 - [Sonemic Spotify](https://open.spotify.com/user/sonemic.com?si=lgqaSktWTI-3gbE-uefo3A)
+- [Is It Bandcamp Friday?](https://isitbandcampfriday.com/)
 
 ### Electronic
 - [Ishkur's Guide To Electronic Music](https://music.ishkur.com/)

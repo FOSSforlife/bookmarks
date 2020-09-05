@@ -12,7 +12,7 @@
     "coding": "vuepress dev coding",
     "knowledge": "vuepress dev knowledge",
     "music": "vuepress dev music",
-    "build": "vuepress build coding && vuepress build knowledge && vuepress build music"
+    "build": "vuepress build coding && vuepress build knowledge && vuepress build music && cp favicon.ico dist"
   },
   "license": "MIT",
   "devDependencies": {

@@ -5,6 +5,14 @@
 - [Non - Lightweight DAW for Raspberry Pi](https://non.tuxfamily.org/)
 - [Radium - A graphical music editor. A next generation tracker.](http://users.notam02.no/~kjetism/radium/)
 
+## Interesting Tools
+
+## Project collaboration
+- [Blend by ROLI - similar to Splice](https://blend.io/)
+- [Pedal - share samples and MIDI in real time](https://miidbaby.com/)
+- [Soundtrap](https://www.soundtrap.com/collaborate)
+- [Splice Studio](https://splice.com/features/studio)
+
 ## Plugins (VST)
 
 ### Deals
@@ -29,6 +37,10 @@
 
 ### REAPER
 - [Joep Vanlier - JSFX Plugins](http://github.com/JoepVanlier/JSFX/) (GitHub)
+- [NINJAM - Make music together over the internet](https://www.cockos.com/ninjam/)
+
+### SuperCollider
+- [Norns](https://monome.org/docs/norns/)
 
 ### VCV Rack
 - [List of sequencer modules](https://www.reddit.com/r/vcvrack/comments/by2lsh/favoritemost_versatile_free_sequencer/eqdm2li) (Reddit comment)

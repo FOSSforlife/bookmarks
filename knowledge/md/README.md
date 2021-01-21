@@ -14,6 +14,7 @@ sidebar: auto
 - [Scholarly articles used in Destiny debates (megathread) Part 2](https://www.reddit.com/r/Destiny/comments/am0gjm/scholarly_articlesstudies_megathread_2/): Gender, economics, immigration, race, crime stats, climate change, and more
 - [Snopes.com](https://www.snopes.com/), [FactCheck.org](https://www.factcheck.org/), [PolitiFact](https://www.politifact.com/) - fact-checking sites
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [GovTrack](https://www.govtrack.us)
 - [List of international rankings](https://en.wikipedia.org/wiki/List_of_international_rankings)
 - Reddit: [/r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/), [/r/changemyview](https://www.reddit.com/r/changemyview/), [/r/outoftheloop](https://www.reddit.com/r/outoftheloop/)
 - [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
@@ -193,6 +194,7 @@ sidebar: auto
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
 
 ### Reparations for Slavery
+
 - [Destiny in Moderation #1 - Trihex vs. Ahrelevant](https://www.youtube.com/watch?v=S295-rW_Ubs)
 
 ### Social Democracy
@@ -216,6 +218,7 @@ sidebar: auto
 - [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
 
 ### Wages
+
 - [Efficiency wage](https://en.wikipedia.org/wiki/Efficiency_wage) (Wikipedia)
 
 ## Ethics
@@ -330,7 +333,7 @@ sidebar: auto
 ## Police & Law Enforcement
 
 - General info
-  
+
   - [2020 BLM Resource Guide](https://docs.google.com/document/u/1/d/1yxj0kSC2-LzINUlfNMEV_Qi-7ZtWCTLSua3Z-9XFNqA/mobilebasic)
   - [BLM Resources](https://blacklivesmatters.carrd.co/#educate) (subpage of blacklivesmatters.carrd.co)
   - [The Militarization Manifesto](https://www.reddit.com/r/Destiny/comments/gzae9p/the_militarization_manifesto/)
@@ -345,7 +348,7 @@ sidebar: auto
   - [Portland Police Say They're Needed to Prevent Gun Violence. Experts Disagree.](https://www.portlandmercury.com/blogtown/2020/08/27/28773429/portland-police-say-theyre-needed-to-prevent-gun-violence-experts-disagree) (Portland Mercury)
 
 - Arguments for Reform
-  
+
   - [Campaign Zero](https://joincampaignzero.org)
   - [8 Can't Wait](https://8cantwait.org/)
   - [@samswey: Research-based solutions to police violence](https://threadreaderapp.com/thread/1180655701271732224.html) (Twitter)
@@ -354,7 +357,7 @@ sidebar: auto
   - [Police Use of Force Project](http://useofforceproject.org/)
 
 - Arguments for Abolition
-  
+
   - [Critical Resistance](http://criticalresistance.org/) ([Infographic](https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf))
   - [Abolition Research Doc from @AMReese07](https://docs.google.com/document/d/1odJy1Mj5lsr94xbS_5EHhEYmvls9QsE5o7nLsyzWV4U/edit) (Google Docs)
   - [Why do we say ACAB?](https://github.com/dessalines/essays/blob/master/acab.md)
@@ -384,6 +387,7 @@ sidebar: auto
 - [Destiny in Moderation debate on court packing (Bastiat vs SocDoneLeft)](https://youtu.be/zF0BadaM2rU) (YouTube)
 
 ### Media
+
 - [The New York Times Admits Key Falsehoods That Drove Last Year’s Coup in Bolivia](https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/) (The Intercept)
 
 ### Polling

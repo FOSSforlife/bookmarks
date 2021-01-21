@@ -32,6 +32,7 @@
 - [Equipboard](https://equipboard.com/)
 - [AFreeStudio.com - Huge list of free music software](https://www.afreestudio.com/)
 - [unfa - Free and open-source software I use for music production](https://www.youtube.com/watch?v=qistxioVgMw)
+- [Top 10 Free Plugins for Metal - 2019 edition!](https://www.youtube.com/watch?v=th5zLkm3Bbk)
 - [Bedroom Producers Blog - Free VSTs](https://bedroomproducersblog.com/free-vst-plugins/)
 - [Red Means Recording - Free VSTs](https://www.youtube.com/playlist?list=PLcaEIjiwaCmQSnKgbfykDkqRDq7Y2tl1j)
 - [White Sea Studio - All the plugins I actually use](https://www.youtube.com/watch?v=kNMCzKz3cQg)

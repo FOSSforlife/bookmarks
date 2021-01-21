@@ -321,7 +321,7 @@ sidebar: auto
 ## Police & Law Enforcement
 
 - General info
-
+  
   - [2020 BLM Resource Guide](https://docs.google.com/document/u/1/d/1yxj0kSC2-LzINUlfNMEV_Qi-7ZtWCTLSua3Z-9XFNqA/mobilebasic)
   - [BLM Resources](https://blacklivesmatters.carrd.co/#educate) (subpage of blacklivesmatters.carrd.co)
   - [The Militarization Manifesto](https://www.reddit.com/r/Destiny/comments/gzae9p/the_militarization_manifesto/)
@@ -336,13 +336,16 @@ sidebar: auto
   - [Portland Police Say They're Needed to Prevent Gun Violence. Experts Disagree.](https://www.portlandmercury.com/blogtown/2020/08/27/28773429/portland-police-say-theyre-needed-to-prevent-gun-violence-experts-disagree) (Portland Mercury)
 
 - Arguments for Reform
+  
   - [Campaign Zero](https://joincampaignzero.org)
   - [8 Can't Wait](https://8cantwait.org/)
   - [@samswey: Research-based solutions to police violence](https://threadreaderapp.com/thread/1180655701271732224.html) (Twitter)
   - [@DarioRahim: Arguments for reform](https://threadreaderapp.com/thread/1268573431664193538.html) (Twitter)
   - [Police Union Contract Project](https://www.checkthepolice.org/)
   - [Police Use of Force Project](http://useofforceproject.org/)
+
 - Arguments for Abolition
+  
   - [Critical Resistance](http://criticalresistance.org/) ([Infographic](https://static1.squarespace.com/static/59ead8f9692ebee25b72f17f/t/5b65cd58758d46d34254f22c/1533398363539/CR_NoCops_reform_vs_abolition_CRside.pdf))
   - [Abolition Research Doc from @AMReese07](https://docs.google.com/document/d/1odJy1Mj5lsr94xbS_5EHhEYmvls9QsE5o7nLsyzWV4U/edit) (Google Docs)
   - [Why do we say ACAB?](https://github.com/dessalines/essays/blob/master/acab.md)
@@ -386,6 +389,7 @@ sidebar: auto
 
 - [Vox - The roots of America's democracy problem](https://youtu.be/0ySL82WbcvU) (YouTube)
 - [@ArashKolahi: The Democratic Party establishment is far to the right of the US population.](https://twitter.com/ArashKolahi/status/1285647367585374208) (Twitter)
+- [Public Pressure And Lawsuits Kept USPS From Handing Trump The Election. Here's How.](https://www.huffpost.com/entry/usps-missing-ballots-election_n_5fab206dc5b635e9de9ce657?zgq) (HuffPost)
 
 ### Voting
 

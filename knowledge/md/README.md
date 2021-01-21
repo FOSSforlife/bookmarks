@@ -192,11 +192,14 @@ sidebar: auto
   - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
 
+### Reparations for Slavery
+- [Destiny in Moderation #1 - Trihex vs. Ahrelevant](https://www.youtube.com/watch?v=S295-rW_Ubs)
+
 ### Social Democracy
 
 - [As a social democrat, what do you dislike in the Nordic model and believe could be different or made better?](https://www.reddit.com/r/SocialDemocracy/comments/if6rc8/as_a_social_democrat_what_do_you_dislike_in_the/) (Reddit /r/socialdemocracy)
 
-#### Trade Agreements
+### Trade Agreements
 
 - [Noam Chomsky: Every Word in the Phrase 'Free Trade Agreement' Is False](https://www.truthdig.com/articles/noam-chomsky-every-word-in-the-phrase-free-trade-agreement-is-false/) (Truthdig)
 - [Free Trade](https://rationalwiki.org/wiki/Free_trade) (RationalWiki)
@@ -211,6 +214,9 @@ sidebar: auto
 ### Value Added Tax
 
 - [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
+
+### Wages
+- [Efficiency wage](https://en.wikipedia.org/wiki/Efficiency_wage) (Wikipedia)
 
 ## Ethics
 
@@ -246,6 +252,8 @@ sidebar: auto
 ## Geopolitics and History
 
 - [List of atrocities committed by US authorities](https://github.com/dessalines/essays/blob/master/us_atrocities.md)
+- [Anti-tankie resources and notes](https://sourceful.us/doc/480/anti-tankie-resources-and-notes) (Sourceful)
+  - [Google Docs source link](https://docs.google.com/document/d/18m1zCEFKIQbEyzx7PJyeXVVjwYtqMgv6kIGUKr8z5Rg/edit)
 
 ### Abraham Lincoln
 
@@ -261,6 +269,7 @@ sidebar: auto
 
 - [RationalWiki - Human Rights in China (includes section on Uyghur camps)](https://rationalwiki.org/wiki/China#Human_rights_in_China_.28it_ain.27t_good.29)
 - [Large Google Doc titled "Debunking And Analysing Myths of 'Concentration Camps'"](https://docs.google.com/document/d/1XiHrkJ_zudQZP1hBIBCgJKKAfAILxEG0cmQGrNH8pIU) (probably complete bullshit. Haven't looked through it yet, it's here to remind myself)
+- (See also: anti-tankie resources at the top of the section)
 
 ### Colonialism
 
@@ -366,11 +375,16 @@ sidebar: auto
   - [The real stakes in the David Shor saga](https://www.vox.com/2020/7/29/21340308/david-shor-omar-wasow-speech) (Vox)
 - [So You Want To Talk About: Getting Involved In Politics](https://www.instagram.com/p/CDHVDl1nqT5/#)
 - [German Lopez: How violent protests against police brutality in the ’60s and ’90s changed public opinion](https://www.vox.com/2020/6/2/21275901/police-violence-riots-jacob-blake-kenosha-wisconsin) (Vox)
+- [Solutions Podcast](https://medium.com/solutions) :)
 
 ### Building a Better Democratic Party
 
 - [Beyond Trump: A Theory of Political Transition](https://plantogovern.us/beyond-trump/)
 - [Alexandria Ocasio-Cortez and the future of the left](https://www.vox.com/2020/8/21/21395848/alexandria-ocasio-cortez-future-of-left-aoc-bernie-dsa-working-families-party) (Vox)
+- [Destiny in Moderation debate on court packing (Bastiat vs SocDoneLeft)](https://youtu.be/zF0BadaM2rU) (YouTube)
+
+### Media
+- [The New York Times Admits Key Falsehoods That Drove Last Year’s Coup in Bolivia](https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/) (The Intercept)
 
 ### Polling
 
@@ -444,3 +458,4 @@ sidebar: auto
 - [Huge list of Portland vegan restaurants](https://foodfightgrocery.com/pdxguide)
 - [Infographic comparing non-dairy milks](https://i.redd.it/y42kv9rodkc21.png)
 - [Unnatural Vegan: Vegan Nutrition Basics](https://youtu.be/ID_2ymmvW5w) (YouTube)
+- [Unnatural Vegan shop](https://www.amazon.com/shop/unnaturalvegan) (Amazon)

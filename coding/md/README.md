@@ -5,9 +5,8 @@
 - [Top GitHub repos](https://github.com/search?q=stars%3A%3E100&s=stars&type=Repositories)
 - [Simple Icons](https://simpleicons.org/)
 - [MonkeyType](https://monkeytype.com/) - Free typing test
-- [Online charting tools](https://www.beaeconomics.com/same-chart-10-online-charting-tools/)
-  - [Radial charts](https://www.beaeconomics.com/radial-charts/)
 - [UUID Generator](https://www.uuidgenerator.net)
+- [Excalidraw (sketching tool)](https://excalidraw.com)
 
 ## Newsletters
 
@@ -30,9 +29,15 @@
 
 ### React
 
+- [React Redux Links](https://github.com/markerikson/react-redux-links)
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
-
 - [Material Icons - Material-UI](https://material-ui.com/components/material-icons/)
+- [Tao of React - Software Design, Architecture & Best Practices](https://alexkondov.com/tao-of-react/)
+
+#### State Management
+
+- [Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux)](https://blog.isquaredsoftware.com/2021/01/context-redux-differences/)
+- [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
 ## Node.js
 
@@ -48,5 +53,3 @@
 - [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
 - [Objection.js - Objection to ORM hatred](https://www.jakso.me/blog/objection-to-orm-hatred)
 - [10 Things I Hate About PostgreSQL](https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791)
-
-## 

@@ -20,6 +20,8 @@ sidebar: auto
 - [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
   - [Spreadsheet of posts by topic](https://docs.google.com/spreadsheets/d/13MeqT1KVPRGzB23jRxQv6uTHqq1fmq-V7b1yYiQdTOI/edit#gid=2010041126)
 - [List of chart/infographic websites](https://www.beaeconomics.com/links/)
+  - [Online charting tools](https://www.beaeconomics.com/same-chart-10-online-charting-tools/)
+  - [Radial charts](https://www.beaeconomics.com/radial-charts/)
 - [My Favorite Articles](https://raindrop.io/collection/13222355)
 - [Twitter suggested lists](https://twitter.com/i/lists/suggested)
 

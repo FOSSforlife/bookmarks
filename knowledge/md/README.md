@@ -194,6 +194,9 @@ sidebar: auto
 - [Vox - The case against billionaire philanthropy](https://www.vox.com/future-perfect/2018/12/17/18141181/foundation-charity-deduction-democracy-rob-reich) (interview with Rob Reich)
   - [Reich's book on the subject](https://press.princeton.edu/books/hardcover/9780691183497/just-giving)
 - [The Atlantic - Against Big Philanthropy](https://www.theatlantic.com/technology/archive/2018/06/against-philanthropy/563834/)
+- [Podcast: Tech Billionaires Think They’re Better Than You w/ Rob Larson](https://www.buzzsprout.com/1004689/3721055-tech-billionaires-think-they-re-better-than-you-with-rob-larson)
+- [Thread from @parismarx about Bill Gates](https://twitter.com/parismarx/status/1353330538292121602)
+  - [Response: Article about Oxford COVID vaccine being non-profit in developing countries](https://www.theguardian.com/global-development/2020/nov/23/oxford-astrazeneca-results-covid-vaccine-developing-countries?__twitter_impression=true)
 
 ### Reparations for Slavery
 
@@ -388,6 +391,10 @@ sidebar: auto
 - [Alexandria Ocasio-Cortez and the future of the left](https://www.vox.com/2020/8/21/21395848/alexandria-ocasio-cortez-future-of-left-aoc-bernie-dsa-working-families-party) (Vox)
 - [Destiny in Moderation debate on court packing (Bastiat vs SocDoneLeft)](https://youtu.be/zF0BadaM2rU) (YouTube)
 
+#### Democrats are okay, actually
+
+- [/r/neoliberal: A Pocket History of Why You Should Support Nancy Pelosi](https://www.reddit.com/r/neoliberal/comments/9wxh0w/a_pocket_history_of_why_you_should_support_nancy/)
+
 ### Media
 
 - [The New York Times Admits Key Falsehoods That Drove Last Year’s Coup in Bolivia](https://theintercept.com/2020/06/08/the-nyt-admits-key-falsehoods-that-drove-last-years-coup-in-bolivia-falsehoods-peddled-by-the-u-s-its-media-and-the-nyt/) (The Intercept)
@@ -395,6 +402,7 @@ sidebar: auto
 ### Polling
 
 - [PSTBlog - One Election Visualization to Rule Them All](https://pstblog.com/2019/10/11/onevis)
+- [YouGov - popularity and favorability stats](https://today.yougov.com/topics/overview/all)
 
 ### US Corruption
 

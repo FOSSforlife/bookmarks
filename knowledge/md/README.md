@@ -198,6 +198,9 @@ sidebar: auto
 - [Thread from @parismarx about Bill Gates](https://twitter.com/parismarx/status/1353330538292121602)
   - [Response: Article about Oxford COVID vaccine being non-profit in developing countries](https://www.theguardian.com/global-development/2020/nov/23/oxford-astrazeneca-results-covid-vaccine-developing-countries?__twitter_impression=true)
 
+#### In-between
+- [DSA-LSC: Mutual Aid vs. Charity](https://dsa-lsc.org/2020/07/24/mutual-aid-vs-charity/)
+
 ### Reparations for Slavery
 
 - [Destiny in Moderation #1 - Trihex vs. Ahrelevant](https://www.youtube.com/watch?v=S295-rW_Ubs)
@@ -221,6 +224,7 @@ sidebar: auto
 ### Value Added Tax
 
 - [Vaush's video on Andrew Yang (starts at 38:35)](https://www.youtube.com/watch?v=VZORuE8EH0k) (YouTube)
+- [Matt Bruenig - Why Consumption Taxes are Fine](http://mattbruenig.com/2017/04/05/why-consumption-taxes-are-fine/)
 
 ### Wages
 
